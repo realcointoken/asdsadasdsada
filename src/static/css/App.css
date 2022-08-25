@@ -1,0 +1,819 @@
+:root {
+  font-size: 10px;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+  background: #192057;
+}
+
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+          box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(193, 11, 111, 0.424);
+  outline: 1px solid #192057;
+}
+
+#CryptoAirdropApp {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+#CryptoAirdropApp .sticky-top {
+  z-index: 50;
+}
+
+#CryptoAirdropApp img {
+  pointer-events: none;
+}
+
+#CryptoAirdropApp h2 {
+  font-size: 4rem;
+}
+
+#CryptoAirdropApp h3 {
+  font-size: 3rem;
+}
+
+#CryptoAirdropApp h4 {
+  font-size: 2rem;
+}
+
+#CryptoAirdropApp button,
+#CryptoAirdropApp a,
+#CryptoAirdropApp span,
+#CryptoAirdropApp p,
+#CryptoAirdropApp input,
+#CryptoAirdropApp textarea {
+  font-size: 1.6rem;
+}
+
+#CryptoAirdropApp p {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+#CryptoAirdropApp * {
+  color: #fff;
+}
+
+#CryptoAirdropApp #nav.navbar {
+  background: #230344 !important;
+  border-bottom: 2px solid rgba(115, 80, 254, 0.4);
+}
+
+#CryptoAirdropApp #nav.navbar a,
+#CryptoAirdropApp #nav.navbar button {
+  font-size: 1.3rem;
+}
+
+@media (max-width: 992px) {
+  #CryptoAirdropApp #nav.navbar .mobile_design_navbar {
+    position: absolute;
+    display: block !important;
+    width: 100%;
+    left: 0px;
+    background: #192057;
+    text-align: center;
+    padding: 3rem;
+  }
+  #CryptoAirdropApp #nav.navbar .mobile_design_navbar a {
+    display: block;
+  }
+}
+
+#CryptoAirdropApp .section_title_design {
+  display: inline-block;
+}
+
+#CryptoAirdropApp .section_title_design .design_item {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: var(--design-bg);
+  display: inline-block;
+}
+
+#CryptoAirdropApp #homeComponent {
+  min-height: 60vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: #230344;
+}
+
+#CryptoAirdropApp #homeComponent .left_box {
+  max-width: 50rem;
+}
+
+@media (max-width: 992px) {
+  #CryptoAirdropApp #homeComponent .left_box {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 992px) {
+  #CryptoAirdropApp #homeComponent .right_box {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  #CryptoAirdropApp #homeComponent .right_box img {
+    max-height: 400px;
+    width: auto !important;
+  }
+}
+
+@media (max-width: 992px) and (max-width: 768px) {
+  #CryptoAirdropApp #homeComponent .right_box img {
+    max-height: 250px;
+  }
+}
+
+#CryptoAirdropApp #AboutAndServices {
+  background: linear-gradient(-33deg, #3f0959, #140241);
+}
+
+#CryptoAirdropApp #AboutComponent {
+  min-height: 80vh;
+  background: linear-gradient(-33deg, #3f0959, #140241);
+}
+
+#CryptoAirdropApp #AboutComponent .trusted_card {
+  -webkit-box-shadow: 4px 5px 10px rgba(164, 22, 253, 0.884);
+          box-shadow: 4px 5px 10px rgba(164, 22, 253, 0.884);
+}
+
+#CryptoAirdropApp #AboutComponent .left_right_side_row1 .left_box {
+  max-width: 50rem;
+}
+
+#CryptoAirdropApp #AboutComponent .left_right_side_row1 .left_box img {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+#Features {
+  min-height: 70vh;
+  background: linear-gradient(-33deg, #3f0959, #140241);
+}
+
+#RewardBnb {
+  background: linear-gradient(-33deg, #3f0959, #140241);
+}
+
+.watch_box_wrapper {
+  width: 100%;
+  height: 35rem;
+  background: #fff url("../../assets/images/bg-4.jpg") center/cover no-repeat;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.watch_box_wrapper button {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+}
+
+#watchModalView .modal-body {
+  height: 40rem;
+}
+
+#ServicesComponent {
+  background: linear-gradient(-33deg, #3f0959, #140241);
+}
+
+#ServicesComponent .services_card {
+  background: transparent !important;
+  border: 1px solid #08b1b1;
+  border-radius: 0px 30px 0px;
+}
+
+#ServicesComponent .services_card .card-body {
+  background: transparent !important;
+}
+
+#RoadMap {
+  background: #010111 url("../../assets/images/bg-roadmap.png") center/cover no-repeat;
+  min-height: 80vh;
+}
+
+#RoadMap #roadMap_line_wrapper {
+  height: 50rem;
+  position: relative;
+}
+
+#RoadMap #roadMap_line_wrapper p {
+  font-size: 1.3rem !important;
+}
+
+#RoadMap #roadMap_line_wrapper::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  width: 100%;
+  display: block;
+  height: 4px;
+  background: #00e4ff;
+  -webkit-box-shadow: 5px 5px 105px #00e4ff;
+          box-shadow: 5px 5px 105px #00e4ff;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards {
+  position: absolute;
+  bottom: 50%;
+  left: 2%;
+  width: calc(100% - 4%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards {
+  position: absolute;
+  bottom: 0;
+  width: 18rem;
+  min-height: 22rem;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_duration {
+  position: absolute;
+  bottom: -5.5rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards::after {
+  content: "";
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  bottom: -1.2rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  border-radius: 50%;
+  border: 2px solid #00e4ff;
+  background: #010111;
+  z-index: 22;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards::before {
+  content: "";
+  position: absolute;
+  width: 0.8rem;
+  height: 0.8rem;
+  bottom: -0.6rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  border-radius: 50%;
+  z-index: 23;
+  background: #00e4ff;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_with_icons {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_with_icons::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  width: 0.1rem;
+  height: 5rem;
+  background: #00e4ff;
+  bottom: 0;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_with_icons .icon_wrapper {
+  width: 5rem;
+  height: 5rem;
+  border: 2px solid #00e4ff;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  bottom: 5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 50%;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_with_icons .line_content_wrapper {
+  position: absolute;
+  width: 100%;
+  bottom: 11rem;
+  text-align: center;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards:nth-of-type(2) {
+  left: calc(20% + 4%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards:nth-of-type(3) {
+  left: calc(40% + 4%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards:nth-of-type(4) {
+  left: calc(60% + 4%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards:nth-of-type(5) {
+  left: calc(80% + 4%);
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_article_list {
+  position: relative;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_article_list::after {
+  content: "";
+  position: absolute;
+  bottom: -4.5rem;
+  width: 50%;
+  height: 0.05rem;
+  background: #00e4ff;
+  left: -10%;
+  opacity: 0.2;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_article_list::before {
+  width: 0.05rem;
+  height: calc(100% + 4.5rem);
+  background: #00e4ff;
+  opacity: 0.2;
+  position: absolute;
+  left: -10%;
+  content: "";
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_article_list li {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+#RoadMap #roadMap_line_wrapper .top_line_cards .line_cards .line_article_list li::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: calc(-10% - 0.2rem);
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: #00e4ff;
+}
+
+#RoadMap #roadMap_mobile_line {
+  height: 100rem;
+  position: relative;
+}
+
+@media (max-width: 620px) {
+  #RoadMap #roadMap_mobile_line {
+    zoom: 0.8;
+  }
+}
+
+@media (max-width: 620px) and (max-width: 500px) {
+  #RoadMap #roadMap_mobile_line {
+    zoom: 0.6;
+  }
+}
+
+@media (max-width: 620px) and (max-width: 500px) and (max-width: 380px) {
+  #RoadMap #roadMap_mobile_line {
+    zoom: 0.5;
+  }
+}
+
+#RoadMap #roadMap_mobile_line #line_draw {
+  position: absolute;
+  left: 50%;
+  top: 2rem;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 0.4rem;
+  height: calc(100% - 20rem);
+  background: #08b1b1;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left {
+  position: absolute;
+  width: 60rem;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: white;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content {
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  text-align: right;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content::after {
+  content: "";
+  position: absolute;
+  top: 1.4rem;
+  width: 4.5rem;
+  height: 0.4rem;
+  background: #08b1b1;
+  left: 100%;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content::before {
+  content: "";
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: solid #08b1b1;
+  border-radius: 50%;
+  top: 1rem;
+  left: 116.5%;
+  background: #010111;
+  z-index: 11;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content h4 {
+  display: inline-block;
+  padding: 0.5rem 2rem;
+  background: #08b1b1;
+  color: white;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content ul {
+  width: 25rem;
+  background: #230344;
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  text-align: left;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content ul li p {
+  margin-bottom: 0.3rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content ul li i {
+  font-size: 1.6rem;
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(1) {
+  top: 10rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(2) {
+  top: 30rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(3) {
+  top: 50rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(4) {
+  top: 70rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(5) {
+  top: 90rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_left .line_content:nth-child(6) {
+  top: 100rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right {
+  position: absolute;
+  width: 60rem;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: white;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content {
+  position: absolute;
+  right: 0;
+  top: 0.6rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content::after {
+  content: "";
+  position: absolute;
+  top: 1.4rem;
+  width: 4.5rem;
+  height: 0.4rem;
+  background: #08b1b1;
+  right: 100%;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content::before {
+  content: "";
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: solid #08b1b1;
+  border-radius: 50%;
+  top: 1rem;
+  right: 116.5%;
+  background: #010111;
+  z-index: 11;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content h4 {
+  display: inline-block;
+  padding: 0.5rem 2rem;
+  background: #08b1b1;
+  color: white;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content ul {
+  width: 25rem;
+  background: #230344;
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content ul li p {
+  margin-bottom: 0.3rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content ul li i {
+  font-size: 1.6rem;
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content:nth-child(2) {
+  top: 20rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content:nth-child(3) {
+  top: 40rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content:nth-child(4) {
+  top: 60rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content:nth-child(5) {
+  top: 80rem;
+}
+
+#RoadMap #roadMap_mobile_line .line_content_wrapper_right .line_content:nth-child(6) {
+  top: 100rem;
+}
+
+#LeftSideNavbar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background: #0d003b;
+  z-index: 10;
+  left: 2rem;
+  -webkit-box-shadow: 1px 1px 3px rgba(164, 22, 253, 0.884);
+          box-shadow: 1px 1px 3px rgba(164, 22, 253, 0.884);
+}
+
+#LeftSideNavbar .fab {
+  font-size: 2rem;
+  color: #fff;
+  opacity: 0.6;
+}
+
+#ico_and_faq {
+  background: #170446;
+}
+
+#IcoUpdate {
+  background: #170446;
+}
+
+#IcoUpdate .ico_wrapper {
+  background: #1d66f6;
+  position: relative;
+  z-index: 2;
+}
+
+#IcoUpdate .ico_wrapper::after {
+  content: "";
+  background: url("../../assets/images/wave-shap.png") center/cover no-repeat;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  z-index: -1;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group {
+  max-width: 40rem;
+  margin: auto;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group input {
+  background: transparent;
+  padding: 1.5rem;
+  color: #fff;
+  border: none !important;
+  outline: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+  border-bottom: 1px solid white !important;
+  border-radius: 0px;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group input::-webkit-input-placeholder {
+  color: #fff;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group input:-ms-input-placeholder {
+  color: #fff;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group input::-ms-input-placeholder {
+  color: #fff;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group input::placeholder {
+  color: #fff;
+}
+
+#IcoUpdate .ico_wrapper .input_custom_group button {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+#frequently_ask_question {
+  background: #170446;
+}
+
+#frequently_ask_question .accordion * {
+  background: transparent;
+}
+
+#frequently_ask_question .accordion-header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#frequently_ask_question #TokenSaleEnd {
+  background: -webkit-gradient(linear, left top, right top, from(#21d397), to(#7450fe));
+  background: linear-gradient(to right, #21d397 0%, #7450fe 100%);
+}
+
+#frequently_ask_question #TokenSaleEnd .sale_duration_wrapper .sale_item {
+  text-align: center;
+}
+
+#frequently_ask_question #TokenSaleEnd .sale_duration_wrapper .sale_item span:nth-child(1) {
+  width: 7rem;
+  height: 7rem;
+  background: #190345;
+  font-size: 2.5rem;
+  font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#IcoDistribution {
+  background: #170446;
+}
+
+#IcoDistribution .more_token_list li {
+  border: 1px solid #25cbd3;
+}
+
+#ContactUs {
+  background: #170446 url("../../assets/images/pattern.png") no-repeat center/cover;
+}
+
+#ContactUs #ContactSendingForm .input_box_wrapper * {
+  background: transparent;
+}
+
+#ContactUs #ContactSendingForm input,
+#ContactUs #ContactSendingForm textarea {
+  border: none;
+  border-radius: 0px;
+  border-bottom: 1px solid rgba(37, 202, 211, 0.3);
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  padding: 2rem;
+  color: #fff;
+}
+
+#ContactUs #ContactSendingForm input:focus,
+#ContactUs #ContactSendingForm textarea:focus {
+  border-bottom: 1px solid #25cbd3;
+}
+
+#ContactUs #ContactSendingForm input::-webkit-input-placeholder,
+#ContactUs #ContactSendingForm textarea::-webkit-input-placeholder {
+  color: #fff;
+}
+
+#ContactUs #ContactSendingForm input:-ms-input-placeholder,
+#ContactUs #ContactSendingForm textarea:-ms-input-placeholder {
+  color: #fff;
+}
+
+#ContactUs #ContactSendingForm input::-ms-input-placeholder,
+#ContactUs #ContactSendingForm textarea::-ms-input-placeholder {
+  color: #fff;
+}
+
+#ContactUs #ContactSendingForm input::placeholder,
+#ContactUs #ContactSendingForm textarea::placeholder {
+  color: #fff;
+}
+
+#ContactUs #ContactSendingForm textarea {
+  height: 15rem;
+}
+
+#Footer {
+  background: #192057;
+}
+
+#Footer p,
+#Footer span {
+  font-size: 1.3rem;
+}
+
+#Footer .anchor_color {
+  color: rgba(255, 255, 255, 0.7);
+}
+/*# sourceMappingURL=App.css.map */
