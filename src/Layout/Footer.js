@@ -8,7 +8,7 @@ function Footer(props) {
         <div className="row">
           <div className="col-md-5 col-md-4 mb-3 mb-md-5">
             <div className="col_wrapper">
-              <a className="d-inline-block me-2" href="https://mdbgo.com/">
+              <a className="d-inline-block me-2" href="https://in-dex-sale.com">
                 <img src={Logo} height="50" alt="" loading="lazy" />
               </a>
               <p
@@ -31,7 +31,7 @@ function Footer(props) {
                   data-aos="fade-right"
                   data-aos-delay="200"
                 >
-                  <a href="https://join.skype.com/wYphtMy4Zbgh">
+                  <a href="https://join.skype.com">
                     <i className="fab fa-skype" aria-hidden="true"></i>
                   </a>
                 </li>
@@ -41,7 +41,7 @@ function Footer(props) {
                   data-aos="fade-right"
                   data-aos-delay="300"
                 >
-                  <a href="https://mobile.twitter.com/dreamcoinmax">
+                  <a href="https://mobile.twitter.com/indexsale">
                     <i className="fab fa-twitter" aria-hidden="true"></i>
                   </a>
                 </li>
@@ -51,7 +51,7 @@ function Footer(props) {
                   data-aos="fade-right"
                   data-aos-delay="400"
                 >
-                  <a href="https://t.me/DreamCoinOfficialGroup">
+                  <a href="https://t.me/indexsaleglobal">
                     <i className="fab fa-telegram" aria-hidden="true"></i>
                   </a>
                 </li>
@@ -61,7 +61,7 @@ function Footer(props) {
                   data-aos="fade-right"
                   data-aos-delay="500"
                 >
-                  <a href="https://www.instagram.com/invites/contact/?i=1t00ha8ct3jwo&utm_content=me60his">
+                  <a href="https://www.instagram.com/">
                     <i className="fab fa-instagram" aria-hidden="true"></i>
                   </a>
                 </li>
