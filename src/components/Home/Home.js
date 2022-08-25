@@ -19,13 +19,8 @@ function Home(props) {
                     Dreamcoin <b className="text-info">(DC)</b>
                   </h2>
                   <p data-aos="fade-up" data-aos-delay="400">
-                    Dream Coin is a charitable based token. Dream coin holders
-                    makes suggestions and vote on all charitable donations.
-                    Donations will go to hospitals, children, homeless and
-                    animal organizations, as chosen and approved by community
-                    majority vote. Also annually, ongoing Dream Community will
-                    create a scholarship fund for donation and randomly select
-                    an outstanding student heading to college.
+                    In-Dex Sale Token is a utility based token. In-Dex Sale holders
+                    makes suggestions and vote on all roadmap.
                   </p>
                   <div
                     className="btn_wrapper mt-4"
