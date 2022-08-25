@@ -16,13 +16,8 @@ function Footer(props) {
                 data-aos="fade-right"
                 data-aos-delay="100"
               >
-                Dream Coin is a charitable based token. Dream coin holders makes
-                suggestions and vote on all charitable donations. Donations will
-                go to hospitals, children, homeless and animal organizations, as
-                chosen and approved by community majority vote. Also annually,
-                ongoing Dream Community will create a scholarship fund for
-                donation and randomly select an outstanding student heading to
-                college.
+                In-Dex Sale is one the first of its kind multichain launchpad. In-Dex Sale is focused on by actively engaging. Creating value for the project and the community. introduces the In-Dex Sale token which as the more important of launchpad which will be required to governance, 
+and allocations in projects swap fee, farms, pools, bridge multichain fees, card nft game.
               </p>
               <ul className="list-unstyled d-flex">
                 <li
@@ -202,8 +197,7 @@ function Footer(props) {
                   >
                     <li>
                       <p>
-                        Mailing Address: xx00 E.Union Ave Suite 1100.Denver, CO
-                        80237 +999 0000000 support@yourdomail.com
+                        Mailing Address: idsdefi.com
                       </p>
                     </li>
                   </ul>
