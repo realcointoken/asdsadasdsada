@@ -57,11 +57,8 @@ export function About(props) {
               data-aos-anchor-placement="bottom-bottom"
               data-aos-delay="400"
             >
-              Dream aims to implement a burn strategy that is beneficial and
-              rewarding for those engaged for the long term. Furthermore, the
-              total number of Dream burned is featured on our readout located on
-              the website which allows for further transparency in identifying
-              the current circulating supply at any given
+              Our mission is to develop the best launchpad in the world! For Startup Easy, fast and secure fund-raising chance with strong community support.
+Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
             </p>
           </div>
         </div>
@@ -142,7 +139,7 @@ export function About(props) {
                   data-aos-once="true"
                   data-aos-delay="500"
                 >
-                  We Have Achieved Attaining Over 450 Dream Coin Holders
+                  We Have Achieved Attaining Over 450 In-Dex Sale Holders
                 </p>
                 <p
                   className="mb-3"
@@ -214,9 +211,7 @@ export function Features() {
               </h3>
 
               <p data-aos="fade-up" data-aos-once="true" data-aos-delay="500">
-                The Dream Protocol is a community driven, fair launched DeFi
-                Token. Three simple functions occur during each trade:
-                Reflection, LP Acquisition, & Burn.
+                Supply is 1 billion token, and the project is raising a total of $500,000 in a presale round from credential thought youtubers and strategic partners, most of which will be used to increase In-Dex liquidity.
               </p>
             </div>
             <div className="col-12 py-5"></div>
@@ -268,7 +263,7 @@ export function RewardBnb() {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                HOLD DreamCoin and get rewarded in BNB on every 7 days!
+                HOLD In-Dex Sale and get rewarded in BNB on every 7 days!
               </h3>
               <div className="content py-4">
                 <p
@@ -277,9 +272,9 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="200"
                 >
-                  DreamCoin is completely decentralized and all decisions are
+                  In-Dex Sale is completely decentralized and all decisions are
                   made by a community poll. Which gives our developers a better
-                  idea of how to move forward with DreamCoin. investors.
+                  idea of how to move forward with In-Dex Sale. investors.
                 </p>
                 <p
                   className="mb-3"
@@ -287,9 +282,9 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="300"
                 >
-                  The DreamCoin developer team has no team tokens. In other
-                  words, our team has to participate in the DreamCoin presale
-                  along with other
+                  The In-Dex Sale developer team has no team tokens. In other
+                  words, our team has to participate in the In-Dex Sale presale
+                  along with other.
                 </p>
               </div>
 
