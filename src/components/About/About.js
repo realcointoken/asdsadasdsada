@@ -290,7 +290,7 @@ export function RewardBnb() {
 
               <div className="btn_wrapper">
                 <button
-                  className="btn btn-sm px-5 m-3 rounded-pill  btn-primary"
+                  className="btn btn-sm px-5 m-3 rounded-pill  btn-success"
                   data-aos="fade-up"
                   data-aos-delay="400"
                   data-aos-once="true"
