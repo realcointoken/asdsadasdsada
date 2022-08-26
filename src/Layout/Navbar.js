@@ -27,8 +27,8 @@ function Navbar(props) {
         // },
         {
             id: 4,
-            name: 'Reward BNB',
-            link: '/reward_bnb'
+            name: 'Staking Farms',
+            link: '/staking_farms'
         },
         {
             id: 5,
