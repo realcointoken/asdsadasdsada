@@ -4,9 +4,9 @@ function Services(props) {
   const service_card_obj = [
     {
       id: 1,
-      title: "Dream Protocol WhitePaper",
+      title: "In-Dex Sale WhitePaper",
       description:
-        "Static Rewards, LP Acquisition, Autobuyback and Burn Dream coin implemented the autobuyback and burn feature. This happens automatically when there is selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
+        "Static Rewards, LP Acquisition, Autobuyback and Burn In-Dex Sale coin implemented the autobuyback and burn feature. This happens automatically when there is selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
       link: "#",
       img: require("../../assets/images/setting.svg").default,
     },
@@ -30,7 +30,7 @@ function Services(props) {
       id: 4,
       title: "Auto buyback and Burn",
       description:
-        "Dream coin implemented the auto buyback and burn feature. This happens automatically when there is a selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
+        "In-Dex Sale coin implemented the auto buyback and burn feature. This happens automatically when there is a selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
       link: "#",
       img: require("../../assets/images/line.svg").default,
     },
@@ -44,9 +44,9 @@ function Services(props) {
     },
     {
       id: 6,
-      title: "Dream Protocol",
+      title: "In-Dex Sale Protocol",
       description:
-        "The Dream Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+        "The In-Dex Sale is a community driven, fair launched pinksale DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.",
       link: "#",
       img: require("../../assets/images/trading.svg").default,
     },
