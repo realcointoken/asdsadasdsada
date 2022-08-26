@@ -28,7 +28,7 @@ function Navbar(props) {
         {
             id: 4,
             name: 'Staking Farms',
-            link: '/staking_farms'
+            link: '/reward_bnb'
         },
         {
             id: 5,
@@ -38,12 +38,12 @@ function Navbar(props) {
         {
             id: 6,
             name: 'Contacts',
-            link: '/contacts'
+            link: '/airdrop'
         },
         {
             id: 7,
             name: 'FAQ',
-            link: '/faq'
+            link: '/feature'
         }
     ]
     let getPath = useLocation().pathname
