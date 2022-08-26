@@ -32,7 +32,7 @@ function Navbar(props) {
         },
         {
             id: 5,
-            name: 'Presale',
+            name: 'Tokenomics',
             link: '/presale'
         },
         {
