@@ -24,13 +24,8 @@ export function FAQ(props) {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                Dream Coin is a charitable based token. Dream coin holders makes
-                suggestions and vote on all charitable donations. Donations will
-                go to hospitals, children, homeless and animal organizations, as
-                chosen and approved by community majority vote. Also annually,
-                ongoing Dream Community will create a scholarship fund for
-                donation and randomly select an outstanding student heading to
-                college.
+                In-Dex Sale Coin is a utility based token. In-dex Sale coin holders makes
+                suggestions and vote on ecossystem, and possibility to enter on launching projects.
               </p>
             </div>
 
@@ -67,7 +62,7 @@ function FaqAccordion() {
             aria-expanded="false"
             aria-controls="flush-collapseOne"
           >
-            Dream Protocol WhitePaper
+            In-Dex Sale Protocol WhitePaper
           </button>
         </h2>
         <div
@@ -78,7 +73,7 @@ function FaqAccordion() {
         >
           <div className="accordion-body">
             <p className="p-3">
-              Static Rewards, LP Acquisition, Autobuyback and Burn Dream coin
+              Static Rewards, LP Acquisition, Autobuyback and Burn In-Dex Sale coin
               implemented the autobuyback and burn feature. This happens
               automatically when there is selling. With this, we were ensuring
               that our LPMAX was safe during buy/sells transactions .
@@ -137,7 +132,7 @@ function FaqAccordion() {
             aria-expanded="false"
             aria-controls="flush-collapseThree"
           >
-            So Our Team Created Dream Coin and The LPMAX (Liquidity Pool)
+            So Our Team Created In-Dex Sale Coin and The LPMAX (Liquidity Pool)
           </button>
         </h2>
         <div
@@ -154,15 +149,15 @@ function FaqAccordion() {
               - As Follows: The First 30 Days/50% Tax; After 60 Days 30% Tax;
               and lastly, After 90 Days A 15% Tax. This Will Be The Reduction
               Tax Scale To Ensure No Pump And Dumps. We believe this assures a
-              healthy stable and steady growth of Dream Coin’s Token Value.
+              healthy stable and steady growth of In-Dex Sale Coin’s Token Value.
               Additionally, we also believe that it was necessary to reward long
               term investors (holders) with 8% redistribution from all sells.
               This made economical sense to us because it promotes growth and
               prospering benefits to everyone. Lastly, to demonstrate a
-              promising token value to holders of Dream Coin. We implemented the
-              BuyBack/AutoBurn of Dream Coin Tokens . Out of A Supply of 120
-              Million Dream Coins Were Set To Burn A Maximum Up to 50% of Its
-              Supply, Resulting In A Maximum of 60 Million Dream Coin. It is our
+              promising token value to holders of In-Dex Sale Coin. We implemented the
+              BuyBack/AutoBurn of In-Dex Sale Coin Tokens . Out of A Supply of 120
+              Million In-Dex Sale Coins Were Set To Burn A Maximum Up to 50% of Its
+              Supply, Resulting In A Maximum of 60 Million In-Dex Sale Coin. It is our
               hope to minimize market crashes, frustrate scamming techniques and
               to help improve crypto investing “Hopes” To Make Everyone “Dreams
               Come True.”
