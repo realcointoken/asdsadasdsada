@@ -272,9 +272,8 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="200"
                 >
-                  In-Dex Sale is completely decentralized and all decisions are
-                  made by a community poll. Which gives our developers a better
-                  idea of how to move forward with In-Dex Sale. investors.
+                  In-Dex Sale is completely decentralized and all decisions are made by a community poll. Users can stake their In-Dex Sale token on our website by clicking Stake. 
+                  People who stake their In-Dex Sale token will be eligible for participate in all projects launching on our platform. In addition to IDO, they will also be eligible for staking rewards.
                 </p>
                 <p
                   className="mb-3"
