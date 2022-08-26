@@ -12,9 +12,9 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://join.skype.com/wYphtMy4Zbgh"
+            href="https://www.reddit.com/"
           >
-            <i className="fab fa-skype" aria-hidden="true"></i>
+            <i className="fab fa-reddit" aria-hidden="true"></i>
           </a>
         </li>
         <li className="p-3">
