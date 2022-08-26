@@ -38,7 +38,7 @@ function Services(props) {
       id: 5,
       title: "Manual Burns",
       description:
-        "ometimes burns matter; sometimes they don’t. A continuous burn on any one protocol can be nice in the early days, however, this means the burn cannot be finite or controlled in any way.",
+        "Sometimes burns matter; sometimes they don’t. A continuous burn on any one protocol can be nice in the early days, however, this means the burn cannot be finite or controlled in any way.",
       link: "#",
       img: require("../../assets/images/finder.svg").default,
     },
