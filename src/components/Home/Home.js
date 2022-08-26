@@ -27,7 +27,7 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="500"
                   >
-                    <button className="btn btn-sm px-5 m-3 rounded-pill  btn-danger">
+                    <button className="btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Learn more
                     </button>
                     <button
