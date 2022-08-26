@@ -12,7 +12,7 @@ export function About(props) {
     {
       id: 2,
       img: require("../../assets/images/2.png").default,
-      btn: "8.9",
+      btn: <i className="fa fa-check" aria-hidden="true"></i>,
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ export function About(props) {
     {
       id: 5,
       img: require("../../assets/images/5.png").default,
-      btn: "7.4",
+      btn: <i className="fa fa-check" aria-hidden="true"></i>,
     },
     {
       id: 6,
