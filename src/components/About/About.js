@@ -302,9 +302,8 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="600"
                   data-aos-once="true"
-                  onClick={() => alert("Please connect metamask")}
                 >
-                  Stake InUSD
+                  Stake In-USD
                 </button>
               </div>
             </div>
