@@ -295,7 +295,7 @@ export function RewardBnb() {
                   data-aos-delay="400"
                   data-aos-once="true"
                 >
-                  Connect Wallet
+                  Pools/Farms
                 </button>
                 <button
                   className="btn btn-sm px-5 m-3 rounded-pill btn-info"
@@ -304,7 +304,7 @@ export function RewardBnb() {
                   data-aos-once="true"
                   onClick={() => alert("Please connect metamask")}
                 >
-                  Claim BNB
+                  Stake InUSD
                 </button>
               </div>
             </div>
