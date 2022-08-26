@@ -42,8 +42,8 @@ function Navbar(props) {
         },
         {
             id: 7,
-            name: 'Feature Video, Asking',
-            link: '/feature'
+            name: 'FAQ',
+            link: '/faq'
         }
     ]
     let getPath = useLocation().pathname
