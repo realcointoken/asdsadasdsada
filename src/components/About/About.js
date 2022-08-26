@@ -105,8 +105,8 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                 data-aos-once="true"
                 data-aos-delay="100"
               >
-                We Have Accomplished The Following Since July 25, 2021 Fair
-                Launch.
+                We Have Accomplished The Following Since September 10 2022 Fair
+                Launch Pinksale.
               </h3>
               <div className="content py-4">
                 <p
@@ -115,7 +115,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                   data-aos-once="true"
                   data-aos-delay="200"
                 >
-                  Acquired Over 1600 Twitter Followers
+                  Acquired Over 10000 Twitter Followers
                 </p>
                 <p
                   className="mb-3"
@@ -123,7 +123,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                   data-aos-once="true"
                   data-aos-delay="300"
                 >
-                  Acquired Over 1500 Telegram Members
+                  Acquired Over 30000 Telegram Members
                 </p>
                 <p
                   className="mb-3"
@@ -131,7 +131,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                   data-aos-once="true"
                   data-aos-delay="400"
                 >
-                  Hit An ATH of 44k Market Cap
+                  Hit All Peaple Around The World
                 </p>
                 <p
                   className="mb-3"
@@ -139,7 +139,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                   data-aos-once="true"
                   data-aos-delay="500"
                 >
-                  We Have Achieved Attaining Over 450 In-Dex Sale Holders
+                  We Have Achieved Attaining Over 1500 In-Dex Sale Holders
                 </p>
                 <p
                   className="mb-3"
@@ -163,7 +163,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
                   data-aos-once="true"
                   data-aos-delay="800"
                 >
-                  We are On A Continuous & Organic Incline Of Achievements.
+                  We are On the best notice channels & Organic Incline Of Achievements.
                 </p>
               </div>
 
