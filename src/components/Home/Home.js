@@ -28,14 +28,14 @@ function Home(props) {
                     data-aos-delay="500"
                   >
                     <button className="btn btn-sm px-5 m-3 rounded-pill  btn-success">
-                      Learn more
+                      Buy on Pinksale
                     </button>
                     <button
                       className="btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
                       data-aos-delay="600"
                     >
-                      Contact Us
+                      Swap Dex
                     </button>
                   </div>
                 </div>
