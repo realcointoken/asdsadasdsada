@@ -281,9 +281,7 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="300"
                 >
-                  The In-Dex Sale developer team has no team tokens. In other
-                  words, our team has to participate in the In-Dex Sale presale
-                  along with other.
+                  The team has to participate in the In-Dex Sale presale for stake tokens!.
                 </p>
               </div>
 
