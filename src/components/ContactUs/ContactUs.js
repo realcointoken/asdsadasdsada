@@ -23,8 +23,7 @@ export function ContactUs(props) {
                   data-aos="fade-up"
                   data-aos-delay="100"
                 >
-                  We distribute the 8% transaction fees to holders, so every
-                  holder can take benefit from this redistribution.
+                  We 0 fees to all traders.
                 </p>
               </div>
             </div>
