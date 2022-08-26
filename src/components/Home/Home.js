@@ -16,7 +16,7 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="200"
                   >
-                    In-Dex Sale <b className="text-info">(IDSale)</b>
+                    In-Dex Sale <b className="text-info">(IDXS)</b>
                   </h2>
                   <p data-aos="fade-up" data-aos-delay="400">
                     In-Dex Sale Token is a utility based token. In-Dex Sale holders
