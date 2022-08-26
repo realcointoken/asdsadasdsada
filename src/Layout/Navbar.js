@@ -37,12 +37,12 @@ function Navbar(props) {
         },
         {
             id: 6,
-            name: 'Airdrop',
-            link: '/airdrop'
+            name: 'Contacts',
+            link: '/contacts'
         },
         {
             id: 7,
-            name: 'Feature',
+            name: 'Feature Video, Asking',
             link: '/feature'
         }
     ]
