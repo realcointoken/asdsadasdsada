@@ -14,10 +14,10 @@ function IcoUpdate(props) {
                   data-aos="fade-up"
                   data-aos-delay="0"
                 >
-                  Don’t Miss ICO News And Updates!
+                  Don’t Miss Pinksale Fairlaunch!
                 </h2>
                 <p data-aos-once="true" data-aos="fade-up" data-aos-delay="100">
-                  Dream Coin most exciting feature is that it’s the first
+                  In-Dex Sale most exciting feature is that it’s the first
                   created Independent “LPMAX” (liquidity pool) and it put the
                   true power in each holders hands. It minimizes and frustrates
                   rug pulls, price manipulations and pump/dumps schemes. Our
@@ -52,7 +52,7 @@ function IcoUpdate(props) {
                 <span>Join our Chat</span>
                 <div className="w-100 py-2"></div>
                 <button className="btn btn-secondary">
-                  <i className="fab fa-telegram" aria-hidden="true"></i> Airdrop
+                  <i className="fab fa-telegram" aria-hidden="true"></i> TELEGRAM
                 </button>
               </div>
             </div>
