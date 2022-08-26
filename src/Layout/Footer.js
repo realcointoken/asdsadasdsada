@@ -26,8 +26,8 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                   data-aos="fade-right"
                   data-aos-delay="200"
                 >
-                  <a href="https://join.skype.com">
-                    <i className="fab fa-skype" aria-hidden="true"></i>
+                  <a href="https://www.reddit.com/">
+                    <i className="fab fa-reddit" aria-hidden="true"></i>
                   </a>
                 </li>
                 <li
