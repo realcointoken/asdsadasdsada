@@ -80,7 +80,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    Lorem ipsum dolor sit amet.
+                    Hit Maximum Value to Token.
                   </p>
                 </li>
                 <li
@@ -99,7 +99,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    consectetur adipisicing elit. Perspiciatis, autem?.
+                    Build ecossystem based in partneships to token
                   </p>
                 </li>
                 <li
@@ -117,7 +117,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    tur adipisicing elit. Perspiciatis,{" "}
+                    Staking to earn more In-Dex Sale Token{" "}
                   </p>
                 </li>
 
@@ -136,7 +136,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    tur adipisicing elit. Perspiciatis,{" "}
+                    Staking to participate in launchpad{" "}
                   </p>
                 </li>
                 <li
@@ -154,7 +154,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    tur adipisicing elit. Perspiciatis,{" "}
+                    Burning to mint a Stablecoin{" "}
                   </p>
                 </li>
               </ul>
