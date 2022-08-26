@@ -169,7 +169,7 @@ Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opport
 
               <div className="btn_wrapper">
                 <button
-                  className="btn btn-sucess btn-sm px-3 px-md-5 rounded-pill"
+                  className="btn btn-success btn-sm px-3 px-md-5 rounded-pill"
                   data-aos="fade-right"
                   data-aos-once="true"
                   data-aos-delay="1000"
