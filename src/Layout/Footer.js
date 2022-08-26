@@ -197,7 +197,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                   >
                     <li>
                       <p>
-                        Mailing Address: idsdefi.com
+                        Mailing Address: idsdefi@gmail.com
                       </p>
                     </li>
                   </ul>
