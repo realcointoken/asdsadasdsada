@@ -99,7 +99,7 @@ function IcoDistribution(props) {
                       style={{ height: "3rem" }}
                       alt="token-icon"
                     />{" "}
-                    Build ecossystem based in partneships to token
+                    Build ecossystem based in partnerships to token
                   </p>
                 </li>
                 <li
