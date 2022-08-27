@@ -12,20 +12,20 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://www.reddit.com/"
+            href="https://www.reddit.com/user/In-DexSaleDev"
           >
             <i className="fab fa-reddit" aria-hidden="true"></i>
           </a>
         </li>
         <li className="p-3">
-          <a className="btn btn-muted shadow-0 p-0 m-0" href="https://www.facebook.com/groups/789161261754035/">
+          <a className="btn btn-muted shadow-0 p-0 m-0" href="https://www.facebook.com/indexsale">
             <i className="fab fa-facebook" aria-hidden="true"></i>
           </a>
         </li>
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://mobile.twitter.com/dreamcoinmax"
+            href="https://mobile.twitter.com/indexsale"
           >
             <i className="fab fa-twitter" aria-hidden="true"></i>
           </a>
@@ -33,7 +33,7 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://t.me/DreamCoinOfficialGroup"
+            href="https://t.me/InDexSaleGlobal"
           >
             <i className="fab fa-telegram" aria-hidden="true"></i>
           </a>
@@ -41,7 +41,7 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://www.instagram.com/invites/contact/?i=1t00ha8ct3jwo&utm_content=me60his"
+            href="https://www.instagram.com/index_sale/"
           >
             <i className="fab fa-instagram" aria-hidden="true"></i>
           </a>

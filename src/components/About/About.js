@@ -211,7 +211,7 @@ export function Features() {
               </h3>
 
               <p data-aos="fade-up" data-aos-once="true" data-aos-delay="500">
-                Supply is 1 billion token, and the project is raising a total of $500,000 in a presale round from credential thought youtubers and strategic partners, most of which will be used to increase In-Dex liquidity.
+                Supply is 100000 token, and the project in a presale round from credential thought youtubers and strategic partners, most of which will be used to increase In-Dex liquidity.
               </p>
             </div>
             <div className="col-12 py-5"></div>
@@ -272,9 +272,8 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="200"
                 >
-                  In-Dex Sale is completely decentralized and all decisions are
-                  made by a community poll. Which gives our developers a better
-                  idea of how to move forward with In-Dex Sale. investors.
+                  In-Dex Sale is completely decentralized and all decisions are made by a community poll. Users can stake their In-Dex Sale token on our website by clicking Stake. 
+                  People who stake their In-Dex Sale token will be eligible for participate in all projects launching on our platform. In addition to IDO, they will also be eligible for staking rewards.
                 </p>
                 <p
                   className="mb-3"
@@ -282,9 +281,7 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="300"
                 >
-                  The In-Dex Sale developer team has no team tokens. In other
-                  words, our team has to participate in the In-Dex Sale presale
-                  along with other.
+                  A smart contract in which you can stake both LP tokens and solo tokens in order to receive income in tokens of the protocol you are using is called a Farm because all these pools are controlled with a MasterChef Farm smart contract. . If you have an income in tokens of used protocol, regardless of whether you put an LP token (a pair of tokens) or a regular token into a smart contract, all of this belongs to the MasterChef contract and should be called a Farm..
                 </p>
               </div>
 

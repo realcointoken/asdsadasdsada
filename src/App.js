@@ -35,7 +35,7 @@ function App() {
             <Route path="/roadmap" element={<RoadMap />} />
             {/* <Route path="/about" element={<About />} /> */}
             <Route path="/feature" element={<Features />} />
-            <Route path="/whitepaper" element={<Services />} />
+            <Route path="/about" element={<Services />} />
             <Route path="/airdrop" element={<IcoUpdate />} />
             <Route path="/presale" element={<IcoDistribution />} />
             <Route path="/reward_bnb" element={<RewardBnb />} />
