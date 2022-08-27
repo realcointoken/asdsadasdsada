@@ -211,7 +211,7 @@ export function Features() {
               </h3>
 
               <p data-aos="fade-up" data-aos-once="true" data-aos-delay="500">
-                Supply is 1 billion token, and the project is raising a total of $500,000 in a presale round from credential thought youtubers and strategic partners, most of which will be used to increase In-Dex liquidity.
+                Supply is 100000 token, and the project in a presale round from credential thought youtubers and strategic partners, most of which will be used to increase In-Dex liquidity.
               </p>
             </div>
             <div className="col-12 py-5"></div>
