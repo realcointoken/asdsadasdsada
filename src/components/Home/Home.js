@@ -30,16 +30,17 @@ function Home(props) {
                     <a href="https://www.pinksale.finance/launchpads?chain=BSC" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Buy on Pinksale
                     </a>
-                  <button
-                  href="https://in-dex-swap.ml"
-                  target={"_blank"}
-                  className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
-                  data-aos="fade-up"
-                  data-aos-delay="600"
-                  data-aos-once="true"
-                >
+                    <button
+                    <a
+                      href="https://www.in-dex-swap.ml/#/"
+                      target={'_blank'}
+                      className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
+                      data-aos="fade-up"
+                      data-aos-delay="600"
+                    >
                       Swap Dex
                     </button>
+                    </a>
                   </div>
                 </div>
                 <div className="right_box order-1 order-lg-2">
