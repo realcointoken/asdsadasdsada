@@ -28,9 +28,6 @@ export function ContactUs(props) {
             </div>
           </div>
         </div>
-        <div className="row justify-content-center">
-          <div className="col-11 col-md-10 col-lg-9">
-            <ContactSendingForm></ContactSendingForm>
           </div>
         </div>
       </div>
