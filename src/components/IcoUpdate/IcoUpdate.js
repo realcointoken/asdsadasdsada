@@ -37,13 +37,6 @@ function IcoUpdate(props) {
                   for the growth for our holders.
                 </p>
               </div>
-              <form
-                action=""
-                method="post"
-                data-aos-once="true"
-                data-aos="fade-left"
-                data-aos-delay="100"
-              >
               <div
                 className="ico_join_social mt-3 mt-md-5"
                 data-aos-once="true"
