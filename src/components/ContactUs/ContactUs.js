@@ -52,23 +52,6 @@ function ContactSendingForm() {
             >
               <input type="text" placeholder="" className="form-control" />
             </div>
-            <div
-              className="input-group mb-4 flex-grow-1"
-              data-aos-once="true"
-              data-aos="fade-right"
-              data-aos-delay="300"
-            >
-              <input type="text" placeholder="" className="form-control" />
-            </div>
-          </div>
-          <div
-            className="input-group mb-4"
-            data-aos-once="true"
-            data-aos="fade-right"
-            data-aos-delay="400"
-          >
-            <input type="text" placeholder="" className="form-control" />
-          </div>
           <div
             className="input-group mb-4"
             data-aos-once="true"
