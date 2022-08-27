@@ -168,14 +168,16 @@ export function About(props) {
               </div>
 
               <div className="btn_wrapper">
-                <button
+                <a
+                  href="https://idsdefi.gitbook.io/"
+                  target={"_blank"}
                   className="btngradiente btn btn-success btn-sm px-3 px-md-5 rounded-pill"
                   data-aos="fade-right"
                   data-aos-once="true"
                   data-aos-delay="1000"
                 >
                   Read more
-                </button>
+                </a>
               </div>
             </div>
           </div>

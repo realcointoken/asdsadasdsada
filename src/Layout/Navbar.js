@@ -91,9 +91,9 @@ function Navbar(props) {
                             // console.log(getPath == v.name.toLowerCase())
                             return <Link onClick={() => setNavShow(false)} to={v.link} data-aos-once="true" data-aos="fade-right" data-aos-delay={v.id * 50} data-aos-offset="0" key={v.id} className={`btn  ${getPath == v.link.toLowerCase() ? 'btn-secondary' : 'btn-muted'} me-1 shadow-0 text-white`}>{v.name} </Link>
                         })}
-                        <button type="button" data-aos-once="true" data-aos="fade-left" data-aos-delay="350" className="btn btn-outline-secondary px-5 mt-3 mt-lg-0 rounded-pill">
+                        <a href="https://www.pinksale.finance/launchpads?chain=BSC" target={"_blank"} type="button" data-aos-once="true" data-aos="fade-left" data-aos-delay="350" className="btn btn-outline-secondary px-5 mt-3 mt-lg-0 rounded-pill">
                             BUY PRE-SALE
-                        </button>
+                        </a>
                     </div>
                 </div>
                 {/* <!-- Collapsible wrapper --> */}
