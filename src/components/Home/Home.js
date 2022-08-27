@@ -16,7 +16,7 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="200"
                   >
-                    In-Dex Sale <b style={{ color: '#00b74a' }} >(IDSale)</b>
+                    In-Dex Sale <b style={{ color: '#00b74a' }} >(IDXS)</b>
                   </h2>
                   <p data-aos="fade-up" data-aos-delay="400">
                     In-Dex Sale Token is a utility based token. In-Dex Sale holders
@@ -30,15 +30,13 @@ function Home(props) {
                     <a href="https://www.pinksale.finance/launchpads?chain=BSC" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Buy on Pinksale
                     </a>
-                    <a
-                      href="https://www.in-dex-swap.ml/#/"
-                      target={'_blank'}
+                    <button
                       className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
                       data-aos-delay="600"
                     >
                       Swap Dex
-                    </a>
+                    </button>
                   </div>
                 </div>
                 <div className="right_box order-1 order-lg-2">
