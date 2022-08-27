@@ -31,7 +31,7 @@ function Home(props) {
                       Buy on Pinksale
                     </a>
                   <button
-                  href="https://ovnistable.vercel.app/"
+                  href="https://in-dex-swap.ml"
                   target={"_blank"}
                   className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                   data-aos="fade-up"
