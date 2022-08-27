@@ -30,7 +30,6 @@ function Home(props) {
                     <button className="btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Buy on Pinksale
                     </button>
-                    href="https://www.reddit.com/user/In-DexSaleDev"
                     <button
                       className="btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
