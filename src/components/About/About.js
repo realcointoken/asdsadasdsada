@@ -169,7 +169,7 @@ export function About(props) {
 
               <div className="btn_wrapper">
                 <button
-                  className="btn btn-success btn-sm px-3 px-md-5 rounded-pill"
+                  className="btngradiente btn btn-success btn-sm px-3 px-md-5 rounded-pill"
                   data-aos="fade-right"
                   data-aos-once="true"
                   data-aos-delay="1000"
@@ -272,7 +272,7 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="200"
                 >
-                  In-Dex Sale is completely decentralized and all decisions are made by a community poll. Users can stake their In-Dex Sale token on our website by clicking Stake. 
+                  In-Dex Sale is completely decentralized and all decisions are made by a community poll. Users can stake their In-Dex Sale token on our website by clicking Stake.
                   People who stake their In-Dex Sale token will be eligible for participate in all projects launching on our platform. In addition to IDO, they will also be eligible for staking rewards.
                 </p>
                 <p
@@ -287,6 +287,8 @@ export function RewardBnb() {
 
               <div className="btn_wrapper">
                 <a
+                  href="https://www.in-dex-farm.ml/"
+                  target={'_blank'}
                   className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success"
                   data-aos="fade-up"
                   data-aos-delay="400"

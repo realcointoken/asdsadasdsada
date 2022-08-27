@@ -323,9 +323,12 @@ function TokenSaleEnd() {
         data-aos="fade-up"
         data-aos-delay="500"
       >
-        <button className="btngradiente btn btn-light rounded-pill">
+        <a
+          href="https://www.pinksale.finance/launchpads?chain=BSC"
+          target={"_blank"}
+          className="btngradiente btn btn-light rounded-pill">
           Buy More Tokens
-        </button>
+        </a>
       </div>
     </div>
   );
