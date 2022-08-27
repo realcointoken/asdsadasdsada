@@ -27,7 +27,7 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="500"
                   >
-                    <a href="https://pinksale.finance/indexsale" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
+                    <a href="https://www.pinksale.finance/launchpads?chain=BSC" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Buy on Pinksale
                     </a>
                     <button
