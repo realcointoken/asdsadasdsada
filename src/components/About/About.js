@@ -281,7 +281,7 @@ export function RewardBnb() {
                   data-aos="fade-up"
                   data-aos-delay="300"
                 >
-                  The team has to participate in the In-Dex Sale presale for stake tokens!.
+                  A smart contract in which you can stake both LP tokens and solo tokens in order to receive income in tokens of the protocol you are using is called a Farm because all these pools are controlled with a MasterChef Farm smart contract. . If you have an income in tokens of used protocol, regardless of whether you put an LP token (a pair of tokens) or a regular token into a smart contract, all of this belongs to the MasterChef contract and should be called a Farm..
                 </p>
               </div>
 
