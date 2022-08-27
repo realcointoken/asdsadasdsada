@@ -32,7 +32,6 @@ export function ContactUs(props) {
         </div>
   );
 }
-        </div>
       </form>
     </div>
   );
