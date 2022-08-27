@@ -130,7 +130,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                     data-aos="fade-right"
                     data-aos-delay="0"
                   >
-                    Privacy & Tos
+                    Links:
                   </h4>
                   <ul className="list-unstyled m-0 p-0">
                     <li
@@ -139,7 +139,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="100"
                     >
                       <a href="#" className="anchor_color">
-                        Advertiser Agreement
+                        Advertisers
                       </a>
                     </li>
                     <li
@@ -148,7 +148,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="200"
                     >
                       <a href="#" className="anchor_color">
-                        Acceptable Use Policy
+                        Bscscan
                       </a>
                     </li>
                     <li
@@ -157,7 +157,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="300"
                     >
                       <a href="#" className="anchor_color">
-                        Privacy Policy
+                        Github
                       </a>
                     </li>
                     <li
@@ -166,7 +166,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="400"
                     >
                       <a href="#" className="anchor_color">
-                        Technology Privacy
+                        Technology
                       </a>
                     </li>
                     <li
@@ -175,7 +175,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="500"
                     >
                       <a href="#" className="anchor_color">
-                        Developer Agreement
+                        Devs
                       </a>
                     </li>
                   </ul>
@@ -187,7 +187,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                     data-aos="fade-right"
                     data-aos-delay="0"
                   >
-                    Phone
+                    E-mail
                   </h4>
                   <ul
                     className="list-unstyled m-0 p-0"
