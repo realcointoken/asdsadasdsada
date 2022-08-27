@@ -32,9 +32,5 @@ export function ContactUs(props) {
         </div>
   );
 }
-      </form>
-    </div>
-  );
-}
 
 export default ContactUs;
