@@ -37,34 +37,6 @@ export function ContactUs(props) {
     </div>
   );
 }
-
-function ContactSendingForm() {
-  return (
-    <div id="ContactSendingForm">
-      <form action="" method="post">
-        <div className="input_box_wrapper">
-          <div className="input_separate_group d-md-flex">
-            <div
-              className="input-group mb-4 flex-grow-1 me-md-5"
-              data-aos-once="true"
-              data-aos="fade-right"
-              data-aos-delay="200"
-            >
-              <input type="text" placeholder="" className="form-control" />
-            </div>
-          <div
-            className="input-group mb-4"
-            data-aos-once="true"
-            data-aos="fade-right"
-            data-aos-delay="500"
-          >
-            <textarea
-              className="form-control"
-              name="message"
-              placeholder="Message..."
-              style={{ overflow: "visible" }}
-            ></textarea>
-          </div>
         </div>
 
         <div
