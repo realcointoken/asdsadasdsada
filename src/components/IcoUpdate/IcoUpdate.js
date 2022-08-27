@@ -1,6 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
 
 function IcoUpdate(props) {
+  const [clear, setClear] = useState('');
+
+  function handleClear() {
+    if (clear === "") {
+      return alert("Please fill in the form with your best email.");
+    } else {
+      alert("Success!")
+    }
+
+    setClear("");
+  }
+
   return (
     <div id="IcoUpdate" className="py-5">
       <div className="container-xxl py-5">
@@ -34,13 +46,15 @@ function IcoUpdate(props) {
               >
                 <div className="input-group input_custom_group">
                   <input
+                    value={clear}
                     type="email"
                     placeholder="Enter your email"
                     className="form-control"
+                    onChange={(e) => setClear(e.target.value)}
                   />
-                  <button className="btn btn-info btn-sm shadow-0">
+                  <a href="http://localhost:3000/airdrop" onClick={handleClear} className="btn btn-info btn-sm shadow-0">
                     Submit
-                  </button>
+                  </a>
                 </div>
               </form>
               <div
@@ -51,9 +65,9 @@ function IcoUpdate(props) {
               >
                 <span>Join our Chat</span>
                 <div className="w-100 py-2"></div>
-                <button className="btn btn-secondary">
+                <a href="https://t.me/indexsaleglobal" target={'_blank'} className="btn btn-secondary">
                   <i className="fab fa-telegram" aria-hidden="true"></i> TELEGRAM
-                </button>
+                </a>
               </div>
             </div>
           </div>

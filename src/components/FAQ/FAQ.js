@@ -260,7 +260,7 @@ function TokenSaleEnd() {
     }
   };
   return (
-    <div id="TokenSaleEnd" className="p-3 p-md-5 rounded-5">
+    <div id="TokenSaleEnd" className="cardgradiente p-3 p-md-5 rounded-5">
       <h3
         className="text-center mb-3 mb-md-5"
         data-aos-once="true"
@@ -323,7 +323,7 @@ function TokenSaleEnd() {
         data-aos="fade-up"
         data-aos-delay="500"
       >
-        <button className="btn btn-light text-success rounded-pill">
+        <button className="btngradiente btn btn-light rounded-pill">
           Buy More Tokens
         </button>
       </div>

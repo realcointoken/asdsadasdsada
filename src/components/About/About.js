@@ -58,7 +58,7 @@ export function About(props) {
               data-aos-delay="400"
             >
               Our mission is to develop the best launchpad in the world! For Startup Easy, fast and secure fund-raising chance with strong community support.
-Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
+              Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
             </p>
           </div>
         </div>
@@ -289,16 +289,16 @@ export function RewardBnb() {
               </div>
 
               <div className="btn_wrapper">
-                <button
-                  className="btn btn-sm px-5 m-3 rounded-pill  btn-success"
+                <a
+                  className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success"
                   data-aos="fade-up"
                   data-aos-delay="400"
                   data-aos-once="true"
                 >
                   Pools/Farms
-                </button>
+                </a>
                 <button
-                  className="btn btn-sm px-5 m-3 rounded-pill btn-info"
+                  className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                   data-aos="fade-up"
                   data-aos-delay="600"
                   data-aos-once="true"

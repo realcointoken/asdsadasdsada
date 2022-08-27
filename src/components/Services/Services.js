@@ -87,11 +87,11 @@ function Services(props) {
                 className="col-md-6 col-lg-4 mb-4 mb-md-5 h-auto"
                 data-aos="fade-up"
                 data-aos-once="true"
-                data-aos-delay={(v.id * 100)+400}
+                data-aos-delay={(v.id * 100) + 400}
               >
                 <div className="px-3 px-md-4 h-100">
                   <div className="card services_card px-3 px-md-4 h-100">
-                    <div className="card-body">
+                    <div className="card-body iconescard">
                       <img src={v.img} alt="img" />
                       <h4 className="card-title py-3 mt-2">{v.title}</h4>
                       <p>{v.description}</p>

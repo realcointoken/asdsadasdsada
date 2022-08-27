@@ -1,7 +1,7 @@
 import React from "react";
 import Airdrop_img from "../../assets/images/airdrop_img.png";
 import { About } from "../About/About";
-import {ContactUs} from "../ContactUs/ContactUs";
+import { ContactUs } from "../ContactUs/ContactUs";
 function Home(props) {
   return (
     <>
@@ -16,7 +16,7 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="200"
                   >
-                    In-Dex Sale <b className="text-info">(IDSale)</b>
+                    In-Dex Sale <b style={{ color: '#00b74a' }} >(IDSale)</b>
                   </h2>
                   <p data-aos="fade-up" data-aos-delay="400">
                     In-Dex Sale Token is a utility based token. In-Dex Sale holders
@@ -27,11 +27,11 @@ function Home(props) {
                     data-aos="fade-up"
                     data-aos-delay="500"
                   >
-                    <button className="btn btn-sm px-5 m-3 rounded-pill  btn-success">
+                    <a href="https://www.google.com" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
                       Buy on Pinksale
-                    </button>
+                    </a>
                     <button
-                      className="btn btn-sm px-5 m-3 rounded-pill btn-info"
+                      className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
                       data-aos-delay="600"
                     >
