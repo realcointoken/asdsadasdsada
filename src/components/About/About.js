@@ -265,7 +265,7 @@ export function RewardBnb() {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                HOLD In-Dex Sale and get rewarded in BNB on every 7 days!
+                HOLD In-Dex Sale to get rewards on staking your tokens!
               </h3>
               <div className="content py-4">
                 <p
