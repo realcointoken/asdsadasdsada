@@ -11,18 +11,18 @@ function RoadMap(props) {
       id: 2,
       name: "3 MONTHS",
       list: [
-        "Create launch plan",
-        "Prep Marketing Team",
-        "Develop go to market strategy",
+        "Create launching plan on Pinksale",
+        "Prepare Marketing Team",
+        "Go to market strategy",
       ],
     },
     {
       id: 3,
       name: "2 MONTHS",
       list: [
-        "Beta test",
+        "Finish Launching Plan",
         "Finalize launch content",
-        "Gather reviews from beta testers",
+        "Gate to Strongest Partnership",
       ],
     },
     {
@@ -33,24 +33,24 @@ function RoadMap(props) {
     {
       id: 5,
       name: "3 WEEKS",
-      list: ["Check in with affiliats", "Start sending social media"],
+      list: ["Start sending social media"],
     },
     {
       id: 6,
       name: "2 WEEKS",
-      list: ["Set up shoping cart", "Research pad traffic"],
+      list: ["Set up all defi products", "Research pad traffic"],
     },
     {
       id: 7,
       name: "1 WEEKS",
-      list: ["Set up projct storefront", "Check all your links!"],
+      list: ["FOMO all social networks", "Check all your links!"],
     },
     {
       id: 8,
       name: "LAUNCH WEEK",
       list: [
         "Make your launch a special event",
-        "Keep sharing on social media & email list",
+        "Keep sharing on social media & telegram groups AMA",
       ],
     },
     {
@@ -58,8 +58,8 @@ function RoadMap(props) {
       name: "AFTER LAUNCH",
       list: [
         "Celebrate!",
-        "Follow up testimonials",
-        "Take feedback and improve product",
+        "PancakeSwap Listing!",
+        "More and more Partnerships",
       ],
     },
   ];
