@@ -4,7 +4,7 @@ function Services(props) {
   const service_card_obj = [
     {
       id: 1,
-      title: "In-Dex Sale WhitePaper",
+      title: "In-Dex Sale",
       description:
         "Static Rewards, LP Acquisition, Autobuyback and Burn In-Dex Sale coin implemented the autobuyback and burn feature. This happens automatically when there is selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
       link: "#",
@@ -63,7 +63,7 @@ function Services(props) {
               data-aos-once="true"
               data-aos-delay="300"
             >
-              Whitepaper
+              About
             </h3>
           </div>
           <div
