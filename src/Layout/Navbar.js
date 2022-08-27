@@ -37,7 +37,7 @@ function Navbar(props) {
         },
         {
             id: 6,
-            name: 'Contacts',
+            name: 'Pinksale FAIRLAUNCH',
             link: '/airdrop'
         },
         {
