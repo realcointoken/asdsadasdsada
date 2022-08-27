@@ -4,17 +4,17 @@ function Services(props) {
   const service_card_obj = [
     {
       id: 1,
-      title: "In-Dex Sale",
+      title: "No Fees",
       description:
-        "Static Rewards, LP Acquisition, Autobuyback and Burn In-Dex Sale coin implemented the autobuyback and burn feature. This happens automatically when there is selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
+        "Zeroswap is a multi-chain compatible decentralised exchange aggregator protocol focused on making zero-fee transactions possible. We are aiming to make on-chain trading simple and easy, by providing access to multi-chains like ethereum, BSC under one roof. The core product is being designed to function gasless and focused on aggregating liquidity from multiple protocols.",
       link: "#",
       img: require("../../assets/images/setting.svg").default,
     },
     {
       id: 2,
-      title: "THE PURPOSE OF THE “LPMAX” (Liquidity Pool).",
+      title: " “SAFU CONTRACT” ",
       description:
-        "Many of us avid crypto currency investors may have been subjected to many types of unfortunate events, such as, scams, rug pulls, honey pots, pump/dumps, etc.. that may have caused an unfair loss.",
+        "Many of us avoid cryptocurrency investors may have been subjected to many types of unfortunate events, such as, scams, rug pulls, honey pots, pump/dumps, etc.. that may have caused an unfair loss.",
       link: "#",
       img: require("../../assets/images/analysis.svg").default,
     },
@@ -28,9 +28,9 @@ function Services(props) {
     },
     {
       id: 4,
-      title: "Auto buyback and Burn",
+      title: "Influencers backed",
       description:
-        "In-Dex Sale coin implemented the auto buyback and burn feature. This happens automatically when there is a selling. With this, we were ensuring that our LPMAX was safe during buy/sells transactions.",
+        " In-Dex Sale value propositions is that it is built and supported, for the  marketers professionals and influencers resulting in broader distributions, much better project exposure and more precise marketing.",
       link: "#",
       img: require("../../assets/images/line.svg").default,
     },
@@ -38,7 +38,7 @@ function Services(props) {
       id: 5,
       title: "Manual Burns",
       description:
-        "Sometimes burns matter; sometimes they don’t. A continuous burn on any one protocol can be nice in the early days, however, this means the burn cannot be finite or controlled in any way.",
+        "Burns matter; sometimes they don’t. A continuous burn on any one protocol can be nice in the early days, this means the burn cannot be finite or controlled in any way.",
       link: "#",
       img: require("../../assets/images/finder.svg").default,
     },
@@ -46,7 +46,7 @@ function Services(props) {
       id: 6,
       title: "In-Dex Sale Protocol",
       description:
-        "The In-Dex Sale is a community driven, fair launched pinksale DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+        "The In-Dex Sale is a community driven deFi token, 100000 supply and fairlaunch on pinksale.",
       link: "#",
       img: require("../../assets/images/trading.svg").default,
     },
@@ -73,9 +73,7 @@ function Services(props) {
             data-aos-delay="400"
           >
             <p>
-              It is our hope to minimize market crashes, frustrate scamming
-              techniques and to help improve crypto investing “Hopes” To Make
-              Everyone “Dreams Come True.”
+              One of the main difference of In-Dex Sale is that it is not limited to a specific blockchain. Instead it can support projects from a broad number of networks, centralizing the highest quality projects from all chains onto one launchpad.”
             </p>
           </div>
         </div>
