@@ -18,7 +18,7 @@ function LeftSideNavbar(props) {
           </a>
         </li>
         <li className="p-3">
-          <a className="btn btn-muted shadow-0 p-0 m-0" href="hhttps://www.facebook.com/In-Dex-Sale">
+          <a className="btn btn-muted shadow-0 p-0 m-0" href="https://www.facebook.com/indexsale/">
             <i className="fab fa-facebook" aria-hidden="true"></i>
           </a>
         </li>
