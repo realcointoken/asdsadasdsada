@@ -28,9 +28,9 @@ function Home(props) {
                     data-aos-delay="500"
                   >
                     <button className="btn btn-sm px-5 m-3 rounded-pill  btn-success">
-                    href="https://www.reddit.com/user/In-DexSaleDev"
                       Buy on Pinksale
                     </button>
+                    href="https://www.reddit.com/user/In-DexSaleDev"
                     <button
                       className="btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
