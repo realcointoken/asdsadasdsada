@@ -17,8 +17,8 @@ function Navbar(props) {
 
         {
             id: 3,
-            name: 'Whitepaper',
-            link: '/whitepaper'
+            name: 'About',
+            link: '/about'
         },
         // {
         //     id: 4,
