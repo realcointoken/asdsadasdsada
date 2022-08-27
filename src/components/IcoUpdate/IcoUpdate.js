@@ -17,11 +17,10 @@ function IcoUpdate(props) {
                   Don’t Miss Pinksale Fairlaunch!
                 </h2>
                 <p data-aos-once="true" data-aos="fade-up" data-aos-delay="100">
-                  In-Dex Sale most exciting feature is that it’s the first
-                  created Independent “LPMAX” (liquidity pool) and it put the
-                  true power in each holders hands. It minimizes and frustrates
-                  rug pulls, price manipulations and pump/dumps schemes. Our
-                  Smart Chain Contract promotes actual assurance and insurance
+                  In-Dex Sale most exciting feature is a multichain and
+                  0 fee token, and staking protocol send true power into the holders hands. 
+                  It minimizes and frustrate rug pulls, price manipulations and pump/dumps schemes.
+                  Our Smart Chain Contract promotes actual assurance and insurance
                   for the growth for our holders.
                 </p>
               </div>
