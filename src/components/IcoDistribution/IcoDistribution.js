@@ -23,10 +23,7 @@ function IcoDistribution(props) {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                All of this is an effort to alleviate some of the troubles we
-                have seen with the current DeFi reflection tokens. We are
-                confident that this model and protocol will prevail over the
-                outdated reflection tokens for these reasons
+                We chose pinksale for being the largest decentralized platform in the world, and for having strict kyc, safu and audit procedures. In addition, with pinksale we were able to reach an immense range of investors.
               </p>
             </div>
           </div>
