@@ -44,19 +44,6 @@ function IcoUpdate(props) {
                 data-aos="fade-left"
                 data-aos-delay="100"
               >
-                <div className="input-group input_custom_group">
-                  <input
-                    value={clear}
-                    type="email"
-                    placeholder="Enter your email"
-                    className="form-control"
-                    onChange={(e) => setClear(e.target.value)}
-                  />
-                  <a href="http://localhost:3000/airdrop" onClick={handleClear} className="btn btn-info btn-sm shadow-0">
-                    Submit
-                  </a>
-                </div>
-              </form>
               <div
                 className="ico_join_social mt-3 mt-md-5"
                 data-aos-once="true"
