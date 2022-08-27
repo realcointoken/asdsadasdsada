@@ -84,7 +84,7 @@ function RoadMap(props) {
           </div>
           <div className="col-10 col-sm-8 col-lg-6 text-center">
             <h3 data-aos-once="true" data-aos="fade-up" data-aos-delay="400">
-              <i className="fa fa-minus" aria-hidden="true"></i> 2023{" "}
+              <i className="fa fa-minus" aria-hidden="true"></i> 2022{" "}
               <i className="fa fa-minus" aria-hidden="true"></i>
             </h3>
           </div>
