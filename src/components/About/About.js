@@ -167,14 +167,13 @@ export function About(props) {
                 </p>
               </div>
 
-              <div className="btn_wrapper">
-                <button
-                  className="btn btn-success btn-sm px-3 px-md-5 rounded-pill"
-                  data-aos="fade-right"
-                  data-aos-once="true"
-                  data-aos-delay="1000"
-                >
-                  Read more
+                  <div
+                    className="btn_wrapper mt-4"
+                    data-aos="fade-up"
+                    data-aos-delay="500"
+                  >
+                    <a href="https://www.pinksale.finance/launchpads?chain=BSC" target={'_blank'} className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success">
+                      READ MORE
                 </button>
               </div>
             </div>
