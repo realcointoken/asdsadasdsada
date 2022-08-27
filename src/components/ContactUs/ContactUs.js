@@ -15,7 +15,7 @@ export function ContactUs(props) {
                   data-aos="fade-up"
                   data-aos-delay="0"
                 >
-                  Contact With Us
+                  We 0 fees to all traders.
                 </h3>
                 <p
                   className="w-75 mx-auto"
@@ -23,7 +23,6 @@ export function ContactUs(props) {
                   data-aos="fade-up"
                   data-aos-delay="100"
                 >
-                  We 0 fees to all traders.
                 </p>
               </div>
             </div>
@@ -51,7 +50,7 @@ function ContactSendingForm() {
               data-aos="fade-right"
               data-aos-delay="200"
             >
-              <input type="text" placeholder="Name" className="form-control" />
+              <input type="text" placeholder="" className="form-control" />
             </div>
             <div
               className="input-group mb-4 flex-grow-1"
@@ -59,7 +58,7 @@ function ContactSendingForm() {
               data-aos="fade-right"
               data-aos-delay="300"
             >
-              <input type="text" placeholder="Email" className="form-control" />
+              <input type="text" placeholder="" className="form-control" />
             </div>
           </div>
           <div
@@ -68,7 +67,7 @@ function ContactSendingForm() {
             data-aos="fade-right"
             data-aos-delay="400"
           >
-            <input type="text" placeholder="Subject" className="form-control" />
+            <input type="text" placeholder="" className="form-control" />
           </div>
           <div
             className="input-group mb-4"
