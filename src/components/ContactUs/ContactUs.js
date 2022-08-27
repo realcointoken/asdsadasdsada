@@ -33,16 +33,6 @@ export function ContactUs(props) {
   );
 }
         </div>
-
-        <div
-          className="btn_action py-5 text-center"
-          data-aos-once="true"
-          data-aos="fade-left"
-          data-aos-delay="600"
-        >
-          <button className="btn btn-secondary px-5 rounded-pill">
-            Send message
-          </button>
         </div>
       </form>
     </div>
