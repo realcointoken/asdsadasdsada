@@ -26,7 +26,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                   data-aos="fade-right"
                   data-aos-delay="200"
                 >
-                  <a href="https://www.reddit.com/">
+                  <a href="https://www.reddit.com/user/In-DexSaleDev">
                     <i className="fab fa-reddit" aria-hidden="true"></i>
                   </a>
                 </li>
@@ -56,7 +56,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                   data-aos="fade-right"
                   data-aos-delay="500"
                 >
-                  <a href="https://www.instagram.com/">
+                  <a href="https://www.instagram.com/index_sale/">
                     <i className="fab fa-instagram" aria-hidden="true"></i>
                   </a>
                 </li>
