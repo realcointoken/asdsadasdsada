@@ -87,7 +87,7 @@ export function About(props) {
                     />
                   </div>
                   <div className="card-body text-center">
-                    <button className="btn btn-secondary w-100">{v.btn}</button>
+                    <a className="buttonminicard btn btn-secondary w-100">{v.btn}</a>
                   </div>
                 </div>
               </div>

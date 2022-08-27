@@ -837,3 +837,7 @@ body::-webkit-scrollbar-thumb {
 .mytextinfo {
   color: #00b74a;
 }
+
+.buttonminicard {
+  background: #010111;
+}
