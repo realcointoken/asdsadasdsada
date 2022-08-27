@@ -82,7 +82,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos-delay="100"
                     >
                       <a href="#" className="anchor_color">
-                        Advertisers
+                        Partners
                       </a>
                     </li>
                     <li
