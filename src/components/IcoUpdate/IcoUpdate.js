@@ -24,25 +24,6 @@ function IcoUpdate(props) {
                   Smart Chain Contract promotes actual assurance and insurance
                   for the growth for our holders.
                 </p>
-              </div>
-              <form
-                action=""
-                method="post"
-                data-aos-once="true"
-                data-aos="fade-left"
-                data-aos-delay="100"
-              >
-                <div className="input-group input_custom_group">
-                  <input
-                    type="email"
-                    placeholder="Enter your email"
-                    className="form-control"
-                  />
-                  <button className="btn btn-info btn-sm shadow-0">
-                    Submit
-                  </button>
-                </div>
-              </form>
               <div
                 className="ico_join_social mt-3 mt-md-5"
                 data-aos-once="true"
