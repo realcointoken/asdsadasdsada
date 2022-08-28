@@ -289,7 +289,7 @@ export function RewardBnb() {
 
               <div className="btn_wrapper">
                 <a
-                  href="https://www.in-dex-farm.ml/"
+                  href="https://index-farm.vercel.app/"
                   target={'_blank'}
                   className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success"
                   data-aos="fade-up"
