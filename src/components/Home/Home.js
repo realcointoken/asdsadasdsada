@@ -31,13 +31,13 @@ function Home(props) {
                       Buy on Pinksale
                     </a>
                     <a
-                      href="https://www.in-dex-swap.ml/#/"
+                      href="https://swap.indexsale.finance."
                       target={'_blank'}
                       className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                       data-aos="fade-up"
                       data-aos-delay="600"
                     >
-                      Swap Dex
+                      Dex
                     </a>
                   </div>
                 </div>
