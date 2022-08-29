@@ -59,7 +59,7 @@ function Navbar(props) {
             {/* <!-- Container wrapper --> */}
             <div className="container-xxl">
                 {/* <!-- Navbar brand --> */}
-                <a className="navbar-brand me-2" href="https://in-dex-sale.com/">
+                <a className="navbar-brand me-2" href="https://indexsale.finance">
                     <img
                         src={Logo}
                         height="50"
