@@ -12,7 +12,7 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://www.reddit.com/user/In-DexSaleDev"
+            href="https://www.reddit.com/user/InDexSale"
           >
             <i className="fab fa-reddit" aria-hidden="true"></i>
           </a>
@@ -25,7 +25,7 @@ function LeftSideNavbar(props) {
         <li className="p-3">
           <a
             className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://mobile.twitter.com/indexsale"
+            href="https://twitter.com/In_Dex_Sale"
           >
             <i className="fab fa-twitter" aria-hidden="true"></i>
           </a>
