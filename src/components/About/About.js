@@ -289,17 +289,17 @@ export function RewardBnb() {
 
               <div className="btn_wrapper">
                 <a
-                  href="https://index-farm.vercel.app/"
+                  href="https://app.indexsale.finance"
                   target={'_blank'}
                   className="btngradiente btn btn-sm px-5 m-3 rounded-pill  btn-success"
                   data-aos="fade-up"
                   data-aos-delay="400"
                   data-aos-once="true"
                 >
-                  Pools/Farms
+                  Staking
                 </a>
                 <a
-                  href="https://ovnistable.vercel.app/"
+                  href="https://stable.indexsale.finance"
                   target={"_blank"}
                   className="btnsecondary btn btn-sm px-5 m-3 rounded-pill btn-info"
                   data-aos="fade-up"
