@@ -169,7 +169,7 @@ export function About(props) {
 
               <div className="btn_wrapper">
                 <a
-                  href="https://idsdefi.gitbook.io/"
+                  href="https://in-dexsale.gitbook.io/in-dex-sale/"
                   target={"_blank"}
                   className="btngradiente btn btn-success btn-sm px-3 px-md-5 rounded-pill"
                   data-aos="fade-right"
