@@ -8,7 +8,7 @@ function Footer(props) {
         <div className="row">
           <div className="col-md-5 col-md-4 mb-3 mb-md-5">
             <div className="col_wrapper">
-              <a className="d-inline-block me-2" href="https://in-dex-sale.com">
+              <a className="d-inline-block me-2" href="https://indexsale.finance">
                 <img src={Logo} height="50" alt="" loading="lazy" />
               </a>
               <p
