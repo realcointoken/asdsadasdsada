@@ -38,13 +38,13 @@ function Services(props) {
       id: 5,
       title: "Manual Burns",
       description:
-        "Burns matter; sometimes they don’t. A continuous burn on any one protocol can be nice in the early days, this means the burn cannot be finite or controlled in any way.",
+        "A continuous burn in any protocol can be good for the first few days.",
       link: "#",
       img: require("../../assets/images/finder.svg").default,
     },
     {
       id: 6,
-      title: "In-Dex Sale Protocol",
+      title: "About In-Dex",
       description:
         "The In-Dex Sale is a community driven deFi token, 100000 supply and fairlaunch on pinksale.",
       link: "#",
@@ -63,7 +63,7 @@ function Services(props) {
               data-aos-once="true"
               data-aos-delay="300"
             >
-              About
+              Differencial
             </h3>
           </div>
           <div
