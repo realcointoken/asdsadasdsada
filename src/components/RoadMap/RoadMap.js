@@ -15,7 +15,7 @@ function RoadMap(props) {
     {
       id: 3,
       name: "October 2022",
-      list: ["In-Dex Sale Pools","Bridge"],
+      list: ["More Strongest Partnership","Insurance Protocol Tests Evaluation Pool"],
     },
     {
       id: 2,
@@ -24,17 +24,17 @@ function RoadMap(props) {
     },
     {id: 5,
       name: "January 2023",
-      list: ["Launchpad", " Stablecoin"],
+      list: ["In-Dex Sale Pools","Bridge"],
     },
     {
       id: 6,
       name: "February 2023",
-      list: ["StableCoin"],
+      list: ["."],
     },
     {
       id: 7,
       name: "April 2023",
-      list: ["Lending", "Governance"],
+      list: ["Launchpad", " Stablecoin"],
     },
     {
       id: 8,
@@ -44,7 +44,7 @@ function RoadMap(props) {
     {
       id: 9,
       name: "June 2023",
-      list: ["More Strongest Partnership"],
+      list: ["Lending", "Governance"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
