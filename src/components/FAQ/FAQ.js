@@ -62,7 +62,7 @@ function FaqAccordion() {
             aria-expanded="false"
             aria-controls="flush-collapseOne"
           >
-            In-Dex Sale Protocol WhitePaper
+            About this.
           </button>
         </h2>
         <div
