@@ -54,7 +54,7 @@ function RoadMap(props) {
       id: 9,
       name: "June 2023",
       list: [
-        ""More Strongest Partnership"!",
+        "More Strongest Partnership"!",
       ],
     },
   ];
