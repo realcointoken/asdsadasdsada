@@ -73,10 +73,9 @@ function FaqAccordion() {
         >
           <div className="accordion-body">
             <p className="p-3">
-              Static Rewards, LP Acquisition, Autobuyback and Burn In-Dex Sale coin
-              implemented the autobuyback and burn feature. This happens
-              automatically when there is selling. With this, we were ensuring
-              that our LPMAX was safe during buy/sells transactions .
+              Static Rewards, implement the manual burn buyback. This happens when there is selling. With this,
+ we guarantee that LIQUIDITY POOL is always fuller during buy/sell transactions.
+
             </p>
           </div>
         </div>
@@ -96,7 +95,7 @@ function FaqAccordion() {
             aria-expanded="false"
             aria-controls="flush-collapseTwo"
           >
-            THE PURPOSE OF THE “LPMAX” (Liquidity Pool).
+            THE PURPOSE OF THE IN-DEX SALE.
           </button>
         </h2>
         <div
@@ -107,12 +106,11 @@ function FaqAccordion() {
         >
           <div className="accordion-body">
             <p className="p-3">
-              Many of us avid crypto currency investors may have been subjected
-              to many types of unfortunate events, such as, scams, rug pulls,
-              honey pots, pump/dumps, etc.. that may have caused an unfair loss.
-              Therefore, being around a while and even experiencing a few of
-              those terrible circumstances, we concluded that we needed a
-              solution and more “Developer Transparency & Accountability”.
+Many investors may have been subjected to many types of
+events such as blows, rug pulling, honey pots, bombs/evictions, etc...
+which may have caused a loss. So be around a while and
+even experiencing some of these dire circumstances,
+we concluded that we needed a solution, so we do SAFU, AUDIT, KYC.
             </p>
           </div>
         </div>
@@ -132,7 +130,7 @@ function FaqAccordion() {
             aria-expanded="false"
             aria-controls="flush-collapseThree"
           >
-            So Our Team Created In-Dex Sale Coin and The LPMAX (Liquidity Pool)
+            Our Team Created In-Dex Sale Coin
           </button>
         </h2>
         <div
@@ -143,24 +141,8 @@ function FaqAccordion() {
         >
           <div className="accordion-body">
             <p className="p-3">
-              The most important elements that we decided were necessary were
-              investment safeguards. With This Launch And To Ensure The Safety
-              Of Our LPMax We’re Incorporating A Tax Scale To Benefit Investors
-              - As Follows: The First 30 Days/50% Tax; After 60 Days 30% Tax;
-              and lastly, After 90 Days A 15% Tax. This Will Be The Reduction
-              Tax Scale To Ensure No Pump And Dumps. We believe this assures a
-              healthy stable and steady growth of In-Dex Sale Coin’s Token Value.
-              Additionally, we also believe that it was necessary to reward long
-              term investors (holders) with 8% redistribution from all sells.
-              This made economical sense to us because it promotes growth and
-              prospering benefits to everyone. Lastly, to demonstrate a
-              promising token value to holders of In-Dex Sale Coin. We implemented the
-              BuyBack/AutoBurn of In-Dex Sale Coin Tokens . Out of A Supply of 120
-              Million In-Dex Sale Coins Were Set To Burn A Maximum Up to 50% of Its
-              Supply, Resulting In A Maximum of 60 Million In-Dex Sale Coin. It is our
-              hope to minimize market crashes, frustrate scamming techniques and
-              to help improve crypto investing “Hopes” To Make Everyone “Dreams
-              Come True.”
+              Given this increased demand for the concept of decentralized finance, we at In-Dex Sale have developed a launch platform, where we prioritize easy, fast, and secure fundraising opportunities with strong community support.Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
+We at In-Dex Sale are one of the first multi-chain release platforms, with our IDXS token,wich as the more important of launchpad which will be required to governance, and allocations in projects swap fee, farms, pools, brigde multichain fees, card NFt game.”
             </p>
           </div>
         </div>
@@ -192,14 +174,12 @@ function FaqAccordion() {
         >
           <div className="accordion-body">
             <p className="p-3">
-              Static rewards solve a host of problems. First, the reward amount
-              is conditional upon the volume of the token being traded. This
+              Static rewards solve a host of problems. First, reward amount
+              is conditional upon the volume of the token traded. This
               mechanism aims to alleviate some of the downward sell pressure put
               on the token caused by earlier adopters selling their tokens after
               farming crazy high APY’s. Second, the reflect mechanism encourages
-              holders to hang onto their tokens to garner higher kick-backs
-              which are based upon a percentages carried out and dependant upon
-              the total tokens held by the owner.
+              holders to hang onto their tokens to gain more higher.
             </p>
           </div>
         </div>
@@ -327,7 +307,7 @@ function TokenSaleEnd() {
           href="https://www.pinksale.finance/launchpads?chain=BSC"
           target={"_blank"}
           className="btngradiente btn btn-light rounded-pill">
-          Buy More Tokens
+          Buy FairLaunch Pinksale
         </a>
       </div>
     </div>
