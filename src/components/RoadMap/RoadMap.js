@@ -34,7 +34,7 @@ function RoadMap(props) {
     {
       id: 7,
       name: "April 2023",
-      list: ["Lending", "Governance],
+      list: ["Lending", "Governance"],
     },
     {
       id: 8,
