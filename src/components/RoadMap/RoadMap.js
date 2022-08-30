@@ -5,7 +5,7 @@ function RoadMap(props) {
     {
       id: 1,
       name: "First Week",
-      list: ["Token Promotion", "Fixed Swap Protocol", "Pre Sale Fairlaunch on Pinksale"],
+      list: ["Website Development", "Whitepaper", "Working in SAFU Smart Contract", "Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "Fixed Swap Protocol", "AMA on Telegram, and Twitter", "PancakeSwap Listing"],
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ function RoadMap(props) {
     {
       id: 3,
       name: "October 2022",
-      list: ["More Strongest Partnership","Insurance Protocol Tests Evaluation Pool"],
+      list: ["Banners on various TOP websites", "Insurance Protocol Tests Evaluation Pool", "Youtubers Marketing Influencers"],
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ function RoadMap(props) {
     },
     {id: 5,
       name: "January 2023",
-      list: ["In-Dex Sale Pools","Bridge"],
+      list: ["In-Dex Sale Pools","Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing"],
     },
     {
       id: 6,
@@ -34,7 +34,7 @@ function RoadMap(props) {
     {
       id: 7,
       name: "April 2023",
-      list: ["Launchpad", " Stablecoin"],
+      list: ["Launchpad", " Stablecoin", " Whitepaper Update", " Upgrade for the benefit of investors", "CrossChain Upgrade"],
     },
     {
       id: 8,
@@ -44,7 +44,7 @@ function RoadMap(props) {
     {
       id: 9,
       name: "June 2023",
-      list: ["Lending", "Governance"],
+      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
