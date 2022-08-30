@@ -4,62 +4,57 @@ function RoadMap(props) {
   let roadMapObj = [
     {
       id: 1,
-      name: "4 MONTHS",
-      list: ["Get advice", "Customer Development", "Messaging and Positioning"],
+      name: "First Week",
+      list: ["Token Promotion", "Fixed Swap Protocol", "Pre Sale Fairlaunch on Pinksale"],
     },
     {
       id: 2,
-      name: "3 MONTHS",
+      name: "Second Week",
       list: [
-        "Create launching plan on Pinksale",
-        "Prepare Marketing Team",
-        "Go to market strategy",
+        "Project Launch and Sales",
       ],
     },
     {
       id: 3,
-      name: "2 MONTHS",
+      name: "October 2022",
       list: [
-        "Finish Launching Plan",
-        "Finalize launch content",
-        "Gate to Strongest Partnership",
+        "In-Dex Sale Pools",
       ],
     },
     {
-      id: 4,
-      name: "1 MONTHS",
-      list: ["Announce the launch"],
+      id: 2,
+      name: "November 2022",
+      list: [
+        "Bridge",
+      ],
     },
     {
       id: 5,
-      name: "3 WEEKS",
-      list: ["Start sending social media"],
+      name: "January 2023",
+      list: ["Launchpad"],
     },
     {
       id: 6,
-      name: "2 WEEKS",
-      list: ["Set up all defi products", "Research pad traffic"],
+      name: "February 2023",
+      list: ["StableCoin"],
     },
     {
       id: 7,
-      name: "1 WEEKS",
-      list: ["FOMO all social networks", "Check all your links!"],
+      name: "April 2023",
+      list: ["Lending"],
     },
     {
       id: 8,
-      name: "LAUNCH WEEK",
+      name: "May 2023",
       list: [
-        "Make your launch a special event",
-        "Keep sharing on social media & telegram groups AMA",
+        "Governance"
       ],
     },
     {
       id: 9,
-      name: "AFTER LAUNCH",
+      name: "June 2023",
       list: [
-        "Celebrate!",
-        "PancakeSwap Listing!",
-        "More and more Partnerships",
+        ""More Strongest Partnership"!",
       ],
     },
   ];
