@@ -10,26 +10,19 @@ function RoadMap(props) {
     {
       id: 2,
       name: "Second Week",
-      list: [
-        "Project Launch and Sales",
-      ],
+      list: ["Project Launch and Sales"],
     },
     {
       id: 3,
       name: "October 2022",
-      list: [
-        "In-Dex Sale Pools",
-      ],
+      list: ["In-Dex Sale Pools"],
     },
     {
-      id: 4,
+      id: 2,
       name: "November 2022",
-      list: [
-        "Bridge",
-      ],
+      list: ["Bridge"],
     },
-    {
-      id: 5,
+    {id: 5,
       name: "January 2023",
       list: ["Launchpad"],
     },
@@ -46,16 +39,12 @@ function RoadMap(props) {
     {
       id: 8,
       name: "May 2023",
-      list: [
-        "Governance"
-      ],
+      list: ["Governance"],
     },
     {
       id: 9,
       name: "June 2023",
-      list: [
-        "More Strongest Partnership",
-      ],
+      list: ["More Strongest Partnership"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
