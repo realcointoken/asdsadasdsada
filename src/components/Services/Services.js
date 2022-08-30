@@ -63,7 +63,7 @@ function Services(props) {
               data-aos-once="true"
               data-aos-delay="300"
             >
-              Differencial
+              About This Token
             </h3>
           </div>
           <div
