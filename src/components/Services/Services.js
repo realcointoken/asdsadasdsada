@@ -14,7 +14,7 @@ function Services(props) {
       id: 2,
       title: " “SAFU CONTRACT” ",
       description:
-        "Many of us avoid cryptocurrency investors may have been subjected to many types of unfortunate events, such as, scams, rug pulls, honey pots, pump/dumps, etc.. that may have caused an unfair loss.",
+        "Many we have been subjected to many types of unfortunate events, such as, scams, rug pulls, honey pots, pump/dumps, etc.. that may have caused an unfair loss. For this have safu, kyc, audit.",
       link: "#",
       img: require("../../assets/images/analysis.svg").default,
     },
