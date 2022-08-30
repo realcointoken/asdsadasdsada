@@ -22,7 +22,7 @@ function RoadMap(props) {
       ],
     },
     {
-      id: 2,
+      id: 4,
       name: "November 2022",
       list: [
         "Bridge",
