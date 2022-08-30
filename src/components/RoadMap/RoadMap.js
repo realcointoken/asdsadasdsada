@@ -15,16 +15,16 @@ function RoadMap(props) {
     {
       id: 3,
       name: "October 2022",
-      list: ["In-Dex Sale Pools"],
+      list: ["In-Dex Sale Pools","Bridge"],
     },
     {
       id: 2,
       name: "November 2022",
-      list: ["Bridge"],
+      list: [" In-Dex Pools"],
     },
     {id: 5,
       name: "January 2023",
-      list: ["Launchpad"],
+      list: ["Launchpad", " Stablecoin"],
     },
     {
       id: 6,
@@ -34,7 +34,7 @@ function RoadMap(props) {
     {
       id: 7,
       name: "April 2023",
-      list: ["Lending"],
+      list: ["Lending", "Governance],
     },
     {
       id: 8,
@@ -68,7 +68,7 @@ function RoadMap(props) {
           </div>
           <div className="col-10 col-sm-8 col-lg-6 text-center">
             <h3 data-aos-once="true" data-aos="fade-up" data-aos-delay="400">
-              <i className="fa fa-minus" aria-hidden="true"></i> 2022{" "}
+              <i className="fa fa-minus" aria-hidden="true"></i> 2022/2023{" "}
               <i className="fa fa-minus" aria-hidden="true"></i>
             </h3>
           </div>
