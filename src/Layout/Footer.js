@@ -146,7 +146,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos="fade-right"
                       data-aos-delay="300"
                     >
-                      <a href="#" className="anchor_color">
+                      <a href="https://github.com/In-DexSale/In-Dex-Sale" className="anchor_color">
                         Github
                       </a>
                     </li>
