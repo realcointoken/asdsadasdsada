@@ -100,7 +100,7 @@ function RoadMap(props) {
           })}
         </div>
       </div>
-      <div
+      <div 
         className="d-xl-none"
         id="roadMap_mobile_line"
         data-aos-once="true"
@@ -133,7 +133,7 @@ function RoadMap(props) {
         </div>
         {/* left side */}
 
-        <div className="line_content_wrapper_right">
+        <div className="line_content_wrapper_center">
           {/* right side  */}
 
           {roadMapObjOdd.map((v) => {
