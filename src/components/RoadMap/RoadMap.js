@@ -8,27 +8,27 @@ function RoadMap(props) {
       list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol"],
     },
     {
-      id: 2,
+      id: 3,
       name: "Q3 2022",
       list: ["AUDIT, KYC, SAFU on Pinksale", "Fair launch on Pinksale", "CMC and Coingeko Listing", "AMA on best telegrans groups", "Marketing on Twitter", "PancakeSwap listing"],
     },
     {
-      id: 3,
+      id: 5,
       name: "Q4 2022",
       list: ["Insurance Protocol tests Evaluation Pool", "Youtubers marketing influencers", "In-Dex Sale Pools", "ETH contract launch"],
     },
     {
-      id: 4,
+      id: 7,
       name: "Q1 2023",
       list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing", "Launchpad"],
     },
     {
-      id: 5,
+      id: 9,
       name: "Q2 2023",
       list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
     },
     {
-      id: 6,
+      id: 11,
       name: "Q3 2023",
       list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
@@ -41,10 +41,10 @@ function RoadMap(props) {
     <div id="RoadMap" className="py-6">
       <div className="container-xxl py-6">
         <div className="row justify-content-center mb-6">
-          <div className="col-12 text-center py-3 ">
+          <div className="col-9 text-center py-3 ">
             <DesignSectionDot></DesignSectionDot>
             <h3
-              className="py-3"
+              className="py-6"
               data-aos-once="true"
               data-aos="fade-up"
               data-aos-delay="300"
@@ -52,7 +52,7 @@ function RoadMap(props) {
               Product Launch Roadmap
             </h3>
           </div>
-          <div className="col-10 col-sm-8 col-lg-6 text-center">
+          <div className="col-8 col-sm-8 col-lg-6 text-center">
             <h3 data-aos-once="true" data-aos="fade-up" data-aos-delay="400">
               <i className="fa fa-minus" aria-hidden="true"></i> 2022/2023{" "}
               <i className="fa fa-minus" aria-hidden="true"></i>
