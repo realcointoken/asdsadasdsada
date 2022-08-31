@@ -147,7 +147,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                       data-aos="fade-right"
                       data-aos-delay="200"
                     >
-                      <a href="#" className="anchor_color">
+                      <a href="https://bscscan.com/address/0xcab9575f4bf9a846a58fcbe1a96af3e4bd770366" className="anchor_color">
                         Bscscan
                       </a>
                     </li>
