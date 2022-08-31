@@ -4,8 +4,8 @@ function RoadMap(props) {
   let roadMapObj = [
     {
       id: 1,
-      name: "Q1",
-      list: ["Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "AMA on Telegram, and Twitter"],
+      name: "Q2",
+      list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol",
     },
     {
       id: 2,
