@@ -46,8 +46,8 @@ function Home(props) {
                     className="w-100"
                     data-aos="fade-up-left"
                     data-aos-delay="300"
-                    src={Airdrop_img}
-                    alt="airdrop_img"
+                    src={homeindexsale}
+                    alt="homeindexsale"
                   />
                 </div>
               </div>
