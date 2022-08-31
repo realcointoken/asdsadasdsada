@@ -8,26 +8,27 @@ function RoadMap(props) {
       list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol"],
     },
     {
-      id: 2,
+      id: 3,
       name: "Q3 2022",
       list: ["AUDIT, KYC, SAFU on Pinksale", "Fair launch on Pinksale", "CMC and Coingeko Listing", "AMA on best telegrans groups", "Marketing on Twitter", "PancakeSwap listing"],
     },
-    {id: 3,
+    {
+      id: 5,
       name: "Q4 2022",
       list: ["Insurance Protocol tests Evaluation Pool", "Youtubers marketing influencers", "In-Dex Sale Pools", "ETH contract launch"],
     },
     {
-      id: 5,
+      id: 7,
       name: "Q1 2023",
       list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing", "Launchpad"],
     },
     {
-      id: 7,
+      id: 9,
       name: "Q2 2023",
       list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
     },
     {
-      id: 9,
+      id: 11,
       name: "Q3 2023",
       list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
