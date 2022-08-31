@@ -20,17 +20,12 @@ function RoadMap(props) {
     {
       id: 7,
       name: "Q1 2023",
-      list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing", "Launchpad"],
+      list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing","Stablecoin","Whitepaper update", "Launchpad"],
     },
     {
       id: 9,
       name: "Q2 2023",
-      list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
-    },
-    {
-      id: 11,
-      name: "Q3 2023",
-      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
+      list: ["Upgrade for the benefit of investors", "Crosschain Upgrade", "Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
@@ -38,13 +33,13 @@ function RoadMap(props) {
   let roadMapObjEven = roadMapObj.filter((n) => n.id % 2 == 0);
   //console.log(roadMapObjEven)
   return (
-    <div id="RoadMap" className="py-6">
-      <div className="container-xxl py-6">
-        <div className="row justify-content-center mb-6">
+    <div id="RoadMap" className="py-5">
+      <div className="container-xxl py-5">
+        <div className="row justify-content-center mb-5">
           <div className="col-9 text-center py-3 ">
             <DesignSectionDot></DesignSectionDot>
             <h3
-              className="py-6"
+              className="py-3"
               data-aos-once="true"
               data-aos="fade-up"
               data-aos-delay="300"
@@ -52,7 +47,7 @@ function RoadMap(props) {
               Product Launch Roadmap
             </h3>
           </div>
-          <div className="col-8 col-sm-8 col-lg-6 text-center">
+          <div className="col-10 col-sm-8 col-lg-6 text-center">
             <h3 data-aos-once="true" data-aos="fade-up" data-aos-delay="400">
               <i className="fa fa-minus" aria-hidden="true"></i> 2022/2023{" "}
               <i className="fa fa-minus" aria-hidden="true"></i>
