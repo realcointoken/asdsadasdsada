@@ -113,7 +113,7 @@ function RoadMap(props) {
             return (
               <div className="line_content" key={v.id}>
                 <h3> {v.name} </h3>
-                <ul className="list-unstyled m-100">
+                <ul className="list-unstyled m-0">
                   {v.list.map((j) => {
                     return (
                       <li key={j}>
@@ -140,7 +140,7 @@ function RoadMap(props) {
             return (
               <div className="line_content" key={v.id}>
                 <h3>{v.name}</h3>
-                <ul className="list-unstyled m-0">
+                <ul className="list-unstyled m-100">
                   {v.list.map((j) => {
                     return (
                       <li key={j}>
