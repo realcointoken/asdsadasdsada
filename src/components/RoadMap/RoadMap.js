@@ -17,17 +17,17 @@ function RoadMap(props) {
       list: ["Insurance Protocol tests Evaluation Pool", "Youtubers marketing influencers", "In-Dex Sale Pools", "ETH contract launch"],
     },
     {
-      id: 4,
+      id: 5,
       name: "Q1 2023",
       list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing", "Launchpad"],
     },
     {
-      id: 5,
+      id: 7,
       name: "Q2 2023",
       list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
     },
     {
-      id: 6,
+      id: 9,
       name: "Q3 2023",
       list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
