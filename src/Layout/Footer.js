@@ -36,7 +36,7 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                   data-aos="fade-right"
                   data-aos-delay="300"
                 >
-                  <a href="https://mobile.twitter.com/indexsale">
+                  <a href="https://twitter.com/In_Dex_Sale">
                     <i className="fab fa-twitter" aria-hidden="true"></i>
                   </a>
                 </li>
@@ -48,16 +48,6 @@ and allocations in projects swap fee, farms, pools, bridge multichain fees, card
                 >
                   <a href="https://t.me/indexsaleglobal">
                     <i className="fab fa-telegram" aria-hidden="true"></i>
-                  </a>
-                </li>
-                <li
-                  className="p-2"
-                  data-aos-once="true"
-                  data-aos="fade-right"
-                  data-aos-delay="500"
-                >
-                  <a href="https://www.instagram.com/index_sale/">
-                    <i className="fab fa-instagram" aria-hidden="true"></i>
                   </a>
                 </li>
               </ul>
