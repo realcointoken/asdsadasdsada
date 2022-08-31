@@ -42,7 +42,6 @@ function App() {
         </Base>
 
         {/* Aside fix item */}
-        <LeftSideNavbar></LeftSideNavbar>
         <WatchModal></WatchModal>
       </BrowserRouter>
     </div>
