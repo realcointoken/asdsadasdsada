@@ -4,7 +4,6 @@ import Home from "./components/Home/Home";
 import {About} from "./components/About/About";
 import Services from "./components/Services/Services";
 import RoadMap from "./components/RoadMap/RoadMap";
-import LeftSideNavbar from "./components/LeftSideNavbar/LeftSideNavbar";
 import IcoUpdate from "./components/IcoUpdate/IcoUpdate";
 import FAQ from "./components/FAQ/FAQ";
 import IcoDistribution from "./components/IcoDistribution/IcoDistribution";
