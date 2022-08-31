@@ -28,7 +28,7 @@ function RoadMap(props) {
       list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
     },
     {
-      id: 11,
+      id: 10,
       name: "Q3 2023",
       list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
