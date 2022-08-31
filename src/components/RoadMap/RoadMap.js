@@ -5,7 +5,7 @@ function RoadMap(props) {
     {
       id: 1,
       name: "Q1",
-      list: ["Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "AMA on Telegram, and Twitter",
+      list: ["Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "AMA on Telegram, and Twitter"],
     },
     {
       id: 2,
