@@ -38,14 +38,6 @@ function LeftSideNavbar(props) {
             <i className="fab fa-telegram" aria-hidden="true"></i>
           </a>
         </li>
-        <li className="p-3">
-          <a
-            className="btn btn-muted shadow-0 p-0 m-0"
-            href="https://www.instagram.com/index_sale/"
-          >
-            <i className="fab fa-instagram" aria-hidden="true"></i>
-          </a>
-        </li>
       </ul>
     </div>
   );
