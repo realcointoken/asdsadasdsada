@@ -4,8 +4,8 @@ function RoadMap(props) {
   let roadMapObj = [
     {
       id: 1,
-      name: "First Week",
-      list: ["Website Development", "Whitepaper", "Working in SAFU Smart Contract", "Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "Fixed Swap Protocol", "AMA on Telegram, and Twitter", "PancakeSwap Listing"],
+      name: "Q1",
+      list: ["Fixed Swap Protocol", "AUDIT,KYC,SAFU on Pinksale", "Fair Launch on Pinksale", "CMC and Coingecko Listing", "AMA on Telegram, and Twitter",
     },
     {
       id: 2,
@@ -14,8 +14,8 @@ function RoadMap(props) {
     },
     {
       id: 3,
-      name: "October 2022",
-      list: ["Banners on various TOP websites", "Insurance Protocol Tests Evaluation Pool", "Youtubers Marketing Influencers"],
+      name: "Q2",
+      list: ["Banners on various TOP websites", "PancakeSwap Listing", "In-Dex Sale Pools"],
     },
     {
       id: 2,
@@ -23,8 +23,8 @@ function RoadMap(props) {
       list: [" In-Dex Pools"],
     },
     {id: 5,
-      name: "January 2023",
-      list: ["In-Dex Sale Pools","Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing"],
+      name: "Q3",
+      list: ["Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing", "Youtubers Marketing Influencers"],
     },
     {
       id: 6,
@@ -33,7 +33,7 @@ function RoadMap(props) {
     },
     {
       id: 7,
-      name: "April 2023",
+      name: "Q4",
       list: ["Launchpad", " Stablecoin", " Whitepaper Update", " Upgrade for the benefit of investors", "CrossChain Upgrade"],
     },
     {
@@ -43,7 +43,7 @@ function RoadMap(props) {
     },
     {
       id: 9,
-      name: "June 2023",
+      name: "Q5",
       list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale"],
     },
   ];
