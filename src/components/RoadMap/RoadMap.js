@@ -108,12 +108,12 @@ function RoadMap(props) {
       >
         <span id="line_draw"></span>
         {/* left side */}
-        <div className="line_content_wrapper_left">
+        <div className="line_content_wrapper_center">
           {roadMapObjEven.map((v) => {
             return (
               <div className="line_content" key={v.id}>
                 <h4> {v.name} </h4>
-                <ul className="list-unstyled m-0">
+                <ul className="list-unstyled m-10">
                   {v.list.map((j) => {
                     return (
                       <li key={j}>
