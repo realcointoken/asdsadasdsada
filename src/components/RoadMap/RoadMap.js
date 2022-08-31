@@ -15,7 +15,7 @@ function RoadMap(props) {
     {
       id: 3,
       name: "Q2",
-      list: ["Banners on various TOP websites", "PancakeSwap Listing", "In-Dex Sale Pools"],
+      list: ["Banners on various TOP websites", "PancakeSwap Listing", "Youtubers Marketing Influencers"],
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ function RoadMap(props) {
     },
     {id: 5,
       name: "Q3",
-      list: ["Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing", "Youtubers Marketing Influencers"],
+      list: ["Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing", "In-Dex Sale Pools"],
     },
     {
       id: 6,
@@ -34,7 +34,7 @@ function RoadMap(props) {
     {
       id: 7,
       name: "Q4",
-      list: ["Launchpad", " Stablecoin", " Whitepaper Update", " Upgrade for the benefit of investors", "CrossChain Upgrade"],
+      list: ["Launchpad", " Stablecoin", " Whitepaper Update", "CrossChain Upgrade"],
     },
     {
       id: 8,
@@ -44,7 +44,7 @@ function RoadMap(props) {
     {
       id: 9,
       name: "Q5",
-      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale"],
+      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "Upgrade for the benefit of investors"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
