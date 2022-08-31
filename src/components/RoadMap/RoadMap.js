@@ -4,47 +4,32 @@ function RoadMap(props) {
   let roadMapObj = [
     {
       id: 1,
-      name: "Q2",
+      name: "Q2 2022",
       list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol"],
     },
     {
-      id: 2,
-      name: "Second Week",
-      list: ["Project Launch and Sales"],
-    },
-    {
       id: 3,
-      name: "Q2",
-      list: ["Banners on various TOP websites", "PancakeSwap Listing", "Youtubers Marketing Influencers"],
-    },
-    {
-      id: 2,
-      name: "November 2022",
-      list: [" In-Dex Pools"],
+      name: "Q3 2022",
+      list: ["AUDIT, KYC, SAFU on Pinksale", "Fair launch on Pinksale", "CMC and Coingeko Listing", "AMA on best telegrans groups", "Marketing on Twitter", "PancakeSwap listing"],
     },
     {id: 5,
-      name: "Q3",
-      list: ["Bridge", "Dapp Upgrade", "Certik Audit", "Expand Marketing", "In-Dex Sale Pools"],
-    },
-    {
-      id: 6,
-      name: "February 2023",
-      list: ["."],
+      name: "Q4 2022",
+      list: ["Insurance Protocol tests Evaluation Pool", "Youtubers marketing influencers", "In-Dex Sale Pools", "ETH contract launch"],
     },
     {
       id: 7,
-      name: "Q4",
-      list: ["Launchpad", " Stablecoin", " Whitepaper Update", "CrossChain Upgrade"],
-    },
-    {
-      id: 8,
-      name: "May 2023",
-      list: ["Governance"],
+      name: "Q1 2023",
+      list: ["Dapp Upgrade", "Bridge", "Certik Audit", "Expand Marketing", "Launchpad"],
     },
     {
       id: 9,
-      name: "Q5",
-      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "Upgrade for the benefit of investors"],
+      name: "Q2 2023",
+      list: ["Stablecoin", "Whitepaper update", "Upgrade for the benefit of investors", "Crosschain Upgrade"],
+    },
+    {
+      id: 9,
+      name: "Q3 2023",
+      list: ["Lending", "Governance", "Development the Ecossystem of In-Dex Sale", "TBA"],
     },
   ];
   let roadMapObjOdd = roadMapObj.filter((n) => n.id % 2 != 0);
