@@ -38,9 +38,9 @@ function RoadMap(props) {
   let roadMapObjEven = roadMapObj.filter((n) => n.id % 2 == 0);
   //console.log(roadMapObjEven)
   return (
-    <div id="RoadMap" className="py-5">
-      <div className="container-xxl py-5">
-        <div className="row justify-content-center mb-5">
+    <div id="RoadMap" className="py-6">
+      <div className="container-xxl py-6">
+        <div className="row justify-content-center mb-6">
           <div className="col-12 text-center py-3 ">
             <DesignSectionDot></DesignSectionDot>
             <h3
