@@ -104,7 +104,7 @@ function RoadMap(props) {
         className="d-xl-none"
         id="roadMap_mobile_line"
         data-aos-once="true"
-        data-aos="fade-right"
+        data-aos="fade-center"
       >
         <span id="line_draw"></span>
         {/* left side */}
