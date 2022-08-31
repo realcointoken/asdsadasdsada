@@ -5,7 +5,7 @@ function RoadMap(props) {
     {
       id: 1,
       name: "Q2",
-      list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol",
+      list: ["Website Development", "Whitepaper", "Working in SAFU smart contract", "Fixed swap protocol"],
     },
     {
       id: 2,
