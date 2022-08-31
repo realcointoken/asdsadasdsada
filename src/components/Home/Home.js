@@ -1,5 +1,5 @@
 import React from "react";
-import homeindexsale from "../../assets/images/homeindexsale.gif";
+import airdrop_img from "../../assets/images/airdrop_img.png";
 import { About } from "../About/About";
 import { ContactUs } from "../ContactUs/ContactUs";
 function Home(props) {
@@ -46,8 +46,8 @@ function Home(props) {
                     className="w-100"
                     data-aos="fade-up-left"
                     data-aos-delay="300"
-                    src={https://github.com/realcointoken/asdsadasdsada/blob/main/src/assets/images/homeindexsale.gif}
-                    alt="homeindexsale"
+                    src={https://github.com/realcointoken/asdsadasdsada/blob/main/src/assets/images/airdrop_img.png}
+                    alt="airdrop_img"
                   />
                 </div>
               </div>
