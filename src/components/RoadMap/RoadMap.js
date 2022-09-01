@@ -101,7 +101,6 @@ function RoadMap(props) {
         </div>
       </div>
       </div>
-    </div>
   );
 }
 
