@@ -41,13 +41,13 @@ function Home(props) {
                     </a>
                   </div>
                 </div>
-                <div className="right_box order-1 order-lg-2">
+                  <div className="right_box order-1 order-lg-2">
                   <img
                     className="w-100"
                     data-aos="fade-up-left"
                     data-aos-delay="300"
-                    src={Airdrop_img}
-                    alt="airdrop_img"
+                    src={https://github.com/realcointoken/asdsadasdsada/blob/main/src/assets/images/homeindexsale.gif}
+                    alt="homeindexsale"
                   />
                 </div>
               </div>
