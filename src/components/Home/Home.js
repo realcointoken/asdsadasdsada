@@ -1,5 +1,5 @@
 import React from "react";
-import Homeindexsale from "../assets/images/homeindexsale.gif";
+import homeindexsale from "../../assets/images/homeindexsale.gif";
 import { About } from "../About/About";
 import { ContactUs } from "../ContactUs/ContactUs";
 function Home(props) {
@@ -41,14 +41,12 @@ function Home(props) {
                     </a>
                   </div>
                 </div>
-                  <div className="right_box order-1 order-lg-2">
-                    <img
+                <div className="right_box order-1 order-lg-2">
+                  <img
                     className="w-100"
                     data-aos="fade-up-left"
                     data-aos-delay="300"
-                    src={Airdrop_img}
-                    alt="airdrop_img"
-                    src={https://github.com/realcointoken/asdsadasdsada/blob/main/src/assets/images/homeindexsale.gif}
+                    src={homeindexsale}
                     alt="homeindexsale"
                   />
                 </div>
