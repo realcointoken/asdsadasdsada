@@ -1,5 +1,5 @@
 import React from "react";
-import homeindexsale from "../../assets/images/homeindexsale.gif";
+import homeindexsale from "../assets/images/homeindexsale.gif";
 import { About } from "../About/About";
 import { ContactUs } from "../ContactUs/ContactUs";
 function Home(props) {
