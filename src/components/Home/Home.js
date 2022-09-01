@@ -53,7 +53,6 @@ function Home(props) {
               </div>
             </div>
           </div>
-        </div>
       </section>
       <About></About>
       <ContactUs></ContactUs>
