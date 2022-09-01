@@ -100,66 +100,7 @@ function RoadMap(props) {
           })}
         </div>
       </div>
-      <div 
-        className="d-xl-none"
-        id="roadMap_mobile_line"
-        data-aos-once="true"
-        data-aos="fade-left"
-      >
-        <span id="line_draw"></span>
-        {/* left side */}
-        <div className="line_content_wrapper_left">
-          {roadMapObjEven.map((v) => {
-            return (
-              <div className="line_content" key={v.id}>
-                <h3> {v.name} </h3>
-                <ul className="list-unstyled m-0">
-                  {v.list.map((j) => {
-                    return (
-                      <li key={j}>
-                        {" "}
-                        <i
-                          className="fa fa-check-circle"
-                          aria-hidden="true"
-                        ></i>{" "}
-                        <p>{j}</p>
-                      </li>
-                    );
-                  })}
-                </ul>
-              </div>
-            );
-          })}
-        </div>
-        {/* left side */}
-
-        <div className="line_content_wrapper_right">
-          {/* right side  */}
-
-          {roadMapObjOdd.map((v) => {
-            return (
-              <div className="line_content" key={v.id}>
-                <h3>{v.name}</h3>
-                <ul className="list-unstyled m-100">
-                  {v.list.map((j) => {
-                    return (
-                      <li key={j}>
-                        {" "}
-                        <i
-                          className="fa fa-check-circle"
-                          aria-hidden="true"
-                        ></i>{" "}
-                        <p>{j}</p>
-                      </li>
-                    );
-                  })}
-                </ul>
-              </div>
-            );
-          })}
-
-          {/* right side  */}
-        </div>
+     
       </div>
     </div>
   );
