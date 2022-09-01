@@ -46,8 +46,6 @@ function Home(props) {
                     className="w-100"
                     data-aos="fade-up-left"
                     data-aos-delay="300"
-                    src={Airdrop_img}
-                    alt="airdrop_img"
                     src={https://github.com/realcointoken/asdsadasdsada/blob/main/src/assets/images/homeindexsale.gif}
                     alt="homeindexsale"
                   />
